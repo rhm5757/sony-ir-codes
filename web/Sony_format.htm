@@ -1,0 +1,934 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="Sony_format_files/filelist.xml">
+<title>Sony IR Code Format</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Timothy Humphreys</o:Author>
+  <o:LastAuthor>Timothy Humphreys</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>95</o:TotalTime>
+  <o:Created>2002-07-22T20:13:00Z</o:Created>
+  <o:LastSaved>2002-07-22T21:48:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>1253</o:Words>
+  <o:Characters>7145</o:Characters>
+  <o:Company> </o:Company>
+  <o:Lines>59</o:Lines>
+  <o:Paragraphs>16</o:Paragraphs>
+  <o:CharactersWithSpaces>8382</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+table.MsoTableGrid
+	{mso-style-name:"Table Grid";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	border:solid windowtext 1.0pt;
+	mso-border-alt:solid windowtext .5pt;
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-border-insideh:.5pt solid windowtext;
+	mso-border-insidev:.5pt solid windowtext;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050">
+  <o:colormenu v:ext="edit" fillcolor="black"/>
+ </o:shapedefaults></xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor=black lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal><span style='font-size:14.0pt;font-family:Verdana;
+color:silver'>Sony IR Code Format<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:14.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>Sony’s IR codes are pretty simple, when compared to some other
+types of IR signals used by other manufacturers.<span
+style='mso-spacerun:yes'>  </span>Sony’s codes have two distinctions: they vary
+the ON time instead of the off time, and they have three different
+lengths.<span style='mso-spacerun:yes'>  </span>Other than that, it is pretty
+simple.<span style='mso-spacerun:yes'>  </span>However, you need to know a
+little about IR codes in general.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>IR stands for Infra-Red, meaning that it is below red in the
+spectrum.<span style='mso-spacerun:yes'>  </span>We cannot see it, of course,
+however, camcorders can, and if you point any remote control at a camcorder,
+you should see the light flash.<span style='mso-spacerun:yes'>  </span>If you
+also get it near the antenna of any AM radio, you will also hear beeping noise
+on all the AM stations.<span style='mso-spacerun:yes'>   </span>(Both are good
+ways to tell if a remote is working.)<span style='mso-spacerun:yes'>  </span>IR
+is used in most consumer electronics because it is very cheap.<span
+style='mso-spacerun:yes'>  </span>The emitters and receivers are both cheap,
+and you can buy them from Radio Shack or any other electronic parts retailer.<span
+style='mso-spacerun:yes'>  </span>You can think of the emitter as a normal LED,
+because that is what it is except it emits light we can’t see.<span
+style='mso-spacerun:yes'>  </span>IR signals act like light, that’s why we need
+to point them at the thing we want to control.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>The messages contained in IR signals are binary codes, just like
+everything else dealing with computers.<span style='mso-spacerun:yes'> 
+</span>Most types of code formats, or protocols as they are usually called,
+transmit some sort of device code and command code.<span
+style='mso-spacerun:yes'>  </span>The device code only varies between different
+types of electronics, maybe a TV would have the code 1 and a VCR would have 2,
+and maybe a DVD player would use 3, and so on.<span style='mso-spacerun:yes'> 
+</span>The command code represents the function of the button you pressed, such
+as “Power”, “1”, “Channel Up”, or anything.<span style='mso-spacerun:yes'> 
+</span>Each command is assigned a number, which stays consistent for the device
+code.<span style='mso-spacerun:yes'>  </span>It may or may not be consistent
+over all device codes.<span style='mso-spacerun:yes'>  </span>For example, in
+Sony codes, 21 is always the command code for “Power”, but the various arrow
+keys have different command codes depending on the device.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>IR signals are usually transmitted by varying the time the IR “light”
+is off, or on in Sony’s case, or sometimes both the on and off times, this is
+called pulse width modulation.<span style='mso-spacerun:yes'>  </span>Some
+other protocols like RC5 use bi-phase, which means the bits are off-on and
+on-off and all the bits are the same length.<span style='mso-spacerun:yes'> 
+</span>A few protocols just turn the light on for a “1” bit and off for a “0”
+bit, and at least one protocol I’ve seen uses that but reverses the bit’s
+meanings.<span style='mso-spacerun:yes'>  </span>Many IR protocols send the
+least significant bit first, meaning the first bit is worth 1, the second 2,
+the third 4, and so on.<span style='mso-spacerun:yes'>  </span>This is
+backwards from what we normally see with numbers in either binary or decimal,
+we usually put numbers most significant bit first, meaning the last bit is
+always worth 1.<span style='mso-spacerun:yes'>  </span>Many protocols have some
+redundancy or error-checking mechanism built in.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>The other important thing to know about IR signals is that when
+the light is on, it is usually actually flashing rapidly at what is called the
+carrier frequency, instead of just staying solidly on.<span
+style='mso-spacerun:yes'>  </span>This is done so that the signal can be
+identified better in a noisy environment.<span style='mso-spacerun:yes'> 
+</span>There are many sources of IR other than remotes, mainly the sun, but
+also certain light bulbs, and anything that gives off heat also gives off IR.<span
+style='mso-spacerun:yes'>  </span>Usually this frequency is between 25-57
+kHz.<span style='mso-spacerun:yes'>  </span>Sony uses 40 kHz.<span
+style='mso-spacerun:yes'>  </span>Some protocols, especially ones used by cable
+boxes, don’t have a carrier frequency and usually send really short bursts.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>Now for the Sony specifics.<span style='mso-spacerun:yes'> 
+</span>Sony uses a carrier frequency of 40 kHz.<span style='mso-spacerun:yes'> 
+</span>They turn the light on and off in units of 600 microseconds (us).<span
+style='mso-spacerun:yes'>  </span>If you calculate the length of one burst of
+carrier, you can see that there are exactly 24 bursts of carrier in 600
+us.<span style='mso-spacerun:yes'>  </span>Sony uses 4 units on and 1 unit off
+as the first burst, to indicate the beginning of the signal, usually called the
+lead-in.<span style='mso-spacerun:yes'>  </span>This is 2400 us on and 600 us
+off.<span style='mso-spacerun:yes'>  </span>From now on the on and off times
+will be represented by +<i style='mso-bidi-font-style:normal'>x</i> -<i
+style='mso-bidi-font-style:normal'>x</i>, with +<i style='mso-bidi-font-style:
+normal'>x</i> indicating on for <i style='mso-bidi-font-style:normal'>x</i>
+amount of time and –<i style='mso-bidi-font-style:normal'>x</i> indicating off
+for <i style='mso-bidi-font-style:normal'>x</i> amount of time.<span
+style='mso-spacerun:yes'>  </span>That means the lead in is +2400 -600.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>After the lead-in, the first 7 bytes are the command code, least
+significant bit first.<span style='mso-spacerun:yes'>  </span>This allows for
+128 command codes.<span style='mso-spacerun:yes'>  </span>This means that 1010001
+as the first 7 bits equals 69.<span style='mso-spacerun:yes'>  </span>If you
+reverse the order and put it in a calculator that does binary, you will get the
+right decimal equivalent.<span style='mso-spacerun:yes'>  </span>To send those
+bits, +600 -600 is sent if the bit is a 0, and +1200 -600 is sent if it is a 1.<span
+style='mso-spacerun:yes'>  </span>That means 69 would be sent as:<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+1200 -600 +600 -600 +1200 -600 +600 -600 +600 -600 +600 -600 +1200
+-600<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>|<span style='mso-spacerun:yes'>      </span>1<span
+style='mso-spacerun:yes'>    </span><span style='mso-spacerun:yes'> </span><span
+style='mso-spacerun:yes'>  </span>|<span style='mso-spacerun:yes'>      </span>0<span
+style='mso-spacerun:yes'>  </span><span style='mso-spacerun:yes'> </span><span
+style='mso-spacerun:yes'>   </span>|<span style='mso-spacerun:yes'>       
+</span>1<span style='mso-spacerun:yes'>     </span>|<span
+style='mso-spacerun:yes'>      </span>0<span style='mso-spacerun:yes'>     
+</span>|<span style='mso-spacerun:yes'>       </span>0<span
+style='mso-spacerun:yes'>   </span><span style='mso-spacerun:yes'> </span><span
+style='mso-spacerun:yes'> </span>|<span style='mso-spacerun:yes'>     </span>0<span
+style='mso-spacerun:yes'>     </span><span
+style='mso-spacerun:yes'> </span>|<span style='mso-spacerun:yes'>       </span>1<span
+style='mso-spacerun:yes'>     </span><span style='mso-spacerun:yes'> </span>|<span
+style='mso-spacerun:yes'>    </span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><span style='mso-spacerun:yes'>       </span>1<span
+style='mso-spacerun:yes'>                            </span>+ 4<span
+style='mso-spacerun:yes'>                                                        
+</span>+ 64<span style='mso-spacerun:yes'>     </span>= 69<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>Then the device code is sent.<span style='mso-spacerun:yes'> 
+</span>It can be 5 bits, 8 bits or 13 bits.<span style='mso-spacerun:yes'> 
+</span>The lowest number of bits possible is always used.<span
+style='mso-spacerun:yes'>  </span>That means device codes 0-31 use a 5 bit
+device code, codes 32-255 use an 8 bit device code, and codes higher than 256
+would use a 13 bit device code.<span style='mso-spacerun:yes'>  </span>However,
+most of the 13 bit device codes use the same value for the first 5 of the 13
+bits, usually 26, which is 01011 with the least significant bit first.<span
+style='mso-spacerun:yes'>  </span>Since they do that, the 13 bit Sony codes are
+listed with the first bits in front of a decimal point or period, which acts as
+a delimiter, and the other 8 bits after the dot.<span
+style='mso-spacerun:yes'>  </span>If you ever find Sony codes listed elsewhere
+with a single number higher than 255, you can use this formula to calculate the
+form used here:<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>(x Mod 32) . ((x – (x Mod 32)) / 32)<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>The “Mod” function is on the standard Windows calculator.<span
+style='mso-spacerun:yes'>  </span>If you can’t do this, you can assume that (x
+Mod 32) is 26, and modify the formula.<span style='mso-spacerun:yes'> 
+</span>If you get a whole number for the second part, it is correct.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>After the device code is sent, the light is turned off until a
+total time of 45000 us has been reached.<span style='mso-spacerun:yes'> 
+</span>This results in the final -600 being combined with a variable off time
+at the end, which makes the last part of a Sony IR signal some big – number. <span
+style='mso-spacerun:yes'> </span>After 45000 us since the end of the signal,
+the signal is sent again, and will be sent as long as the button is held
+down.<span style='mso-spacerun:yes'>  </span>Sony devices need to see at least
+3 repeats before they will accept the signal, so if you don’t hold the button
+down for over 90000 us (.09 seconds), Sony and One For All remotes know to send
+the signal 3 times.<span style='mso-spacerun:yes'>  </span>This is the only
+form of redundancy or error checking used in Sony signals.<span
+style='mso-spacerun:yes'>  </span>Sony usually makes sure its remotes send out
+a strong signal so that the devices can read the code.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>Let’s take a sample Sony signal and decode it:<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+2388 -608 +596 -602 +1194 -602 +1194 -602 +1194 -602 +1194 -602
++1194 -602 +596 -602 +1194 -602 +596 -602 +596 -602 +596 -602 +1194 -24542<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>This was learned into a One For All remote by Rob Crowe and
+decoded in IR v3.07.<span style='mso-spacerun:yes'>  </span>Now the first thing
+we need to do is recognize that it wasn’t exactly the best example of a learned
+code, the timings are all slightly off.<span style='mso-spacerun:yes'> 
+</span>This is normal, IR receivers can usually handle timing differences of
++/- 10%.<span style='mso-spacerun:yes'>  </span>Now we should separate each
+on-off pair:<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+2388 -608 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+596 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+1194 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+1194 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+1194 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+1194 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+1194 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+596 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+1194 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+596 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+596 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+596 -602 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>+1194 -24542<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>The first pair is the lead-in.<span style='mso-spacerun:yes'> 
+</span>The long off time at the end of the last burst makes the total time
+45000, we only need the on time.<span style='mso-spacerun:yes'>  </span>The
+rest of the code represents 12 bits, meaning that this code has a 5 bit
+device.<span style='mso-spacerun:yes'>  </span>Now we can assign a 0 or 1 value
+to each burst pair and calculate the code:<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
+ style='border-collapse:collapse;border:none;mso-border-alt:solid silver .5pt;
+ mso-yfti-tbllook:480;mso-padding-alt:0in 5.4pt 0in 5.4pt;mso-border-insideh:
+ .5pt solid silver;mso-border-insidev:.5pt solid silver'>
+ <tr style='mso-yfti-irow:0'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>Burst Pair<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border:solid silver 1.0pt;
+  border-left:none;mso-border-left-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>Bit<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border:solid silver 1.0pt;
+  border-left:none;mso-border-left-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>Value<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border:solid silver 1.0pt;
+  border-left:none;mso-border-left-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>Addition<o:p></o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border:solid silver 1.0pt;
+  border-left:none;mso-border-left-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>Total<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+596 -602<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>0<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>1 in command code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+1194 -602<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>1<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>2 in command code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>2<o:p></o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+1194 -602 <o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>1<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>4 in command code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+4<o:p></o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+1194 -602<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>1<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>8 in command code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+8<o:p></o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+1194 -602<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>1<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>16 in command code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+16<o:p></o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+1194 -602<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>1<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>32 in command code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+32<o:p></o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>Command:<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+596 -602 <o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>0<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>64 in command code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>62<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:8;height:5.35pt'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt;height:5.35pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.35pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.35pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.35pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt;height:5.35pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:9'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+1194 -602<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>1<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>1 in device code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>1<o:p></o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:10'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+596 -602<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>0<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>2 in device code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:11'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+596 -602<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>0<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>4 in device code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:12'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+596 -602<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>0<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>8 in device code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>Device:<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:13;mso-yfti-lastrow:yes'>
+  <td width=107 valign=top style='width:80.6pt;border:solid silver 1.0pt;
+  border-top:none;mso-border-top-alt:solid silver .5pt;mso-border-alt:solid silver .5pt;
+  padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+1194 -24542<o:p></o:p></span></p>
+  </td>
+  <td width=31 valign=top style='width:23.55pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>1<o:p></o:p></span></p>
+  </td>
+  <td width=161 valign=top style='width:120.45pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>16 in device code<o:p></o:p></span></p>
+  </td>
+  <td width=180 valign=top style='width:135.15pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>+16<o:p></o:p></span></p>
+  </td>
+  <td width=118 valign=top style='width:88.6pt;border-top:none;border-left:
+  none;border-bottom:solid silver 1.0pt;border-right:solid silver 1.0pt;
+  mso-border-top-alt:solid silver .5pt;mso-border-left-alt:solid silver .5pt;
+  mso-border-alt:solid silver .5pt;padding:0in 5.4pt 0in 5.4pt'>
+  <p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+  color:silver'>17<o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'>This gives us device 17, command 62, which if you look up in the
+charts is the “Disc Skip Up” command for a Sony CD player.<span
+style='mso-spacerun:yes'>  </span>However, some CD players, especially the
+megachangers, have the ability to have the device codes switched, so this is
+for CD1 mode on those devices.<span style='mso-spacerun:yes'>  </span>The different
+device codes are separated by semicolons at the top of the charts, and are
+always listed in order of the mode numbers.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:Verdana;
+color:silver'><a href="sony_home.htm">Home</a><o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
