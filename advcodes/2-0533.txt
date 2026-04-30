@@ -1,0 +1,26 @@
+Laser Disk Players -- <VCR Group>
+----------------------------------------------------------------------
+0533    624 A-B           237 Index Forwar  412 Search Mode   512 Subtitle On/  f
+        255 Angle Change  497 Index Revers  303 Shuffle       370 Time        
+        397 Clear         593 Open/Close    572 Shuttle Forw  720 Title       
+        429 Disc Skip     717 Program       320 Shuttle Reve  702 Up          
+        611 Display       657 Return        510 Slow Forward                  
+        418 DNR           563 Scan Forward  258 Slow Reverse                  
+        704 Down          300 Scan Reverse  252 Subtitle Change               
+
+
+VIDEO DISK.
+        398 0...............0                  274 1...............1                  
+        526 2...............2                  528 3...............3                  
+        268 4...............4                  531 5...............5                  
+        271 6...............6                  273 7...............7                  
+        525 8...............8                  658 9...............9                  
+        515 SHIFT PAUSE.....Audio Change       460 DISPLAY.........DVD Menu           
+        652 ENTER...........Enter              444 SHIFT REW.......Left               
+        348 PROGRAM.........Menu               430 SUR.............Pause              
+        560 PLAY............Play               591 POWER...........Power              
+        627 RECALL..........Repeat             707 SHIFT FFD.......Right              
+        557 FAST FORWARD....Search Forward     305 REWIND..........Search Reverse     
+        558 CHANNEL UP......Skip Forward       306 CHANNEL DOWN....Skip Reverse       
+        432 SHIFT STOP......Step Left          684 SHIFT PLAY......Step Right         
+        690 STOP............Stop               

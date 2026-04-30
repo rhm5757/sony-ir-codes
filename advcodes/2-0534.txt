@@ -1,0 +1,31 @@
+Digital Video Disks --<AUX Group>
+0534    642 All Info      360 Disc Key 5    369 Page Up       430 Subtitle On/Off
+        435 Angle         548 Disc Select   506 Program       382 Text Display
+        303 Aspect        296 Disc Skip     300 Pure Audio    245 Time
+        305 Audio         572 Display       554 Random        486 Time Display
+        245 Chapter       624 Index Down    505 Repeat        689 Title
+        251 Check         364 Index Up      683 Repeat A>B    509 Title Search
+        617 Disc Key 1    299 Memory        684 Return        636 Title Search
+        615 Disc Key 2    506 P. Mode       560 SEQ Mode      689 Top Menu
+        363 Disc Key 3    563 P.B.C.        429 Set Up
+        612 Disc Key 4    367 Page Down     432 Subtitle
+
+DIGITAL VIDEO DISK.      
+        311 ENTER...........+10                437 0...............0
+        697 1...............1
+        695 2...............2                  443 3...............3
+        692 4...............4                  440 5...............5
+        438 6...............6                  698 7...............7
+        565 8...............8                  313 9...............9
+        503 CLEAR...........Clear              370 DOWN............Cursor Down
+        237 LEFT............Cursor Left        497 RIGHT...........Cursor Right
+        622 UP..............Cursor Up          234 DISPLAY.........Display
+        627 SELECT..........Enter
+        372 REWIND..........Fast Back          632 FAST FORWARD....Fast Forward
+        687 MENU............Menu               234 DISPLAY.........OSD
+        375 PAUSE...........Pause/Still        635 PLAY............Play
+        641 POWER...........Power              632 FAST FORWARD....Search Forward
+        372 REWIND..........Search Reverse     630 CHANNEL DOWN....Skip Down
+        378 CHANNEL UP......Skip Forward       630 CHANNEL DOWN....Skip Reverse
+        378 CHANNEL UP......Skip Up            233 SLOW +..........Slow Forward
+        485 SLOW -..........Slow Reverse       377 STOP............Stop

@@ -1,0 +1,26 @@
+Audio Amp/Tuners -- <TUNER Group>
+0415    391 +10           519 6             491 Disc 1        429 Mega Bass
+        651 0             521 7             231 Disc 2        363 Repeat
+        522 1             261 8             233 Disc 3        228 Single Opera on
+        262 2             394 9             485 Disc 4        306 Sound
+        264 3             629 Band          618 Disc 5
+        516 4             645 Clear         358 Disc 6
+        267 5             683 Continue      713 Disc Mode
+
+AUDIO AMP/TUNER.      
+
+        288 1...............CD                       459 DISPLAY.........Display
+        546 3...............Dub
+        285 SELECT..........Function                 680 REWIND..........Intro Scan
+        334 TV/VCR..........Mode                     334 TV/VCR..........Mono/Stereo
+        339 MUTE............Mute                     329 EJECT...........Open/Close
+        678 PAUSE...........Pause                    296 PLAY............Play
+        334 TV/VCR..........Play Mode                591 POWER...........Power
+        420 FAST FORWARD....Program Check            286 2...............Radio
+        420 FAST FORWARD....Scan Forward             680 REWIND..........Scan Reverse
+        423 RECALL..........Shuffle                  294 RIGHT...........Skip Forward
+        554 LEFT............Skip Reverse
+        258 SLEEP...........Sleep                    426 STOP............Stop
+        624 SURROUND........Surround                 546 3...............Tape
+        571 CHANNEL DOWN....Tuning Down              308 CHANNEL UP......Tuning Up
+        588 VOLUME DOWN.....Volume Down              336 VOLUME UP.......Volume Up

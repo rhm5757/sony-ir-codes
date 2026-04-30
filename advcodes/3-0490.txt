@@ -1,0 +1,34 @@
+CD Players ----------- <CD Group>
+----------------------------------------------------------------------
+0490    400 >10           382 Fade          286 Track 12/Q    675 Track 23/|_
+        300 Auto Space/(  738 Filter        288 Track 13/R    415 Track 24/.
+        689 CD Sync Stan  429 Music Sync    540 Track 14/S    417 Track 25/,
+        463 Continue/A    384 No            291 Track 15/T    400 Track >25//
+        720 Date Prsnt/E  387 No Clip       543 Track 16/U    305 Write Caps
+        460 Date Rec/D    605 P. Hold       545 Track 17/V    305 Write Charac rs
+        594 Dig. Rec Lev  367 Record        285 Track 18/W    435 Write Name
+        334 Dig. Rec Lev  718 Scroll        418 Track 19/X    557 Write Num
+        642 Digital Out   306 T Record      670 Track 20/Y    636 Yes
+        384 Edit          723 Time          672 Track 21/Z
+        593 Eject         546 Track 11/P    412 Track 22/-
+
+CD PLAYER. Uses with:        
+CD PLAYER................CDs..................CD 000      
+
+        624 PLAY............CD Sync Start  2   370 STOP............CD Sync Stop 2
+        397 SHIFT STOP......Clear              466 DISPLAY.........Display
+        684 ENTER...........Enter              624 PLAY............Mini Disc
+        563 SHIFT PAUSE.....Music Scan/)       563 SHIFT PLAY......Music Scan/)
+        622 SUR.............Pause              624 PLAY............Play
+        591 POWER...........Power              717 PROGRAM.........Program/C
+        237 SHIFT REW.......Repeat A-B/!       497 A/B.............Repeat/?
+        627 FAST FORWARD....Scan Forward       364 REWIND..........Scan Reverse
+        627 FAST FORWARD....Search Forward     364 REWIND..........Search Reverse
+        465 RECALL..........Shuffle/B          238 CHANNEL UP......Skip Forward
+        498 CHANNEL DOWN....Skip Reverse       370 STOP............Stop
+        274 1...............Track 1/F          398 0...............Track 10/0
+        526 2...............Track 2/G          528 3...............Track 3/H
+        268 4...............Track 4/I          531 5...............Track 5/J
+        271 6...............Track 6/K          273 7...............Track 7/L
+        525 8...............Track 8/M          658 9...............Track 9/N
+        238 CHANNEL UP......Track Forward      498 CHANNEL DOWN....Track Reverse

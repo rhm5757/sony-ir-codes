@@ -1,0 +1,32 @@
+CD Players ----------- <CD Group>
+----------------------------------------------------------------------
+0029    314 10            311 15            440 20            405 Mem/Mus Scan
+        566 11            313 16            697 >10           405 Music Scan  
+        568 12            565 17            500 Auto Cue      665 Open/Close  
+        308 13            698 18            695 Fader         406 Recall      
+        571 14            438 19            378 Index         533 Repeat      
+
+
+CD PLAYER.
+        728 ENTER...........+10                726 0...............0                  
+        602 1...............1 |1/Disc 1        602 1...............1/Disc 1           
+        342 2...............2 |2/Disc 2        342 2...............2/Disc 2           
+        344 3...............3 |3/Disc 3        344 3...............3/Disc 3           
+        596 4...............4 |4/Disc 4        596 4...............4/Disc 4           
+        347 5...............5 |5/Disc 5        347 5...............5/Disc 5           
+        599 6...............6                  601 7...............7                  
+        341 8...............8                  474 9...............9                  
+        666 A/B.............A-B                660 SHIFT STOP......Clear              
+        505 SHIFT PAUSE.....Disc               468 DISPLAY.........Disp On/Off        
+        411 SHIFT REW.......Index Skip <       663 SHIFT FFD.......Index Skip >       
+        503 VOLUME DOWN.....Level Down         251 VOLUME UP.......Level Up           
+        632 SHIFT PLAY......Memory             276 CHANNEL UP......Next               
+        281 SUR.............Pause              408 PLAY............Play/Pause         
+        408 PLAY............Play|Play/Pause    506 POWER...........Power              
+        536 CHANNEL DOWN....Previous           471 PROGRAM.........Program/Cont       
+        725 RECALL..........Random             279 FAST FORWARD....Search Forward     
+        539 REWIND..........Search Reverse     276 CHANNEL UP......Skip Fwd |Next     
+        536 CHANNEL DOWN....Skip Rev |Prev     276 CHANNEL UP......Skip/Search Fwd    
+        536 CHANNEL DOWN....Skip/Search Rev    282 STOP............Stop               
+        630 SLEEP...........Time Mode          503 VOLUME DOWN.....Volume Down        
+        251 VOLUME UP.......Volume Up         

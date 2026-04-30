@@ -1,0 +1,37 @@
+TVs ------------------ <TV Group>
+0030    571 Ant/Aux       692 Fine Tune Up  612 PIP TV/Video  506 Tint Red
+        438 Audio Functi  231 Freeze        500 Quick View    571 TV/CATV
+        698 Audio Norm    698 Function Dow  566 Set           314 TV/CATV
+        438 Audio Set     486 Increment Fr  566 Sleep         571 TV/Video
+        612 Auto Program  692 MTS           506 Sound Wide    566 Video Functi
+        314 Color Down    698 Picture Down  314 Surround      440 Visual Norm
+        566 Color Up      296 Picture Rese  506 Synthe St     566 Visual Set
+        228 DVNR          438 Picture Up    248 Time Set
+        548 Enter         233 PIP Quad      566 Timer
+        440 Fine Tune Do  615 PIP Rotate    293 Timer/Clock
+
+TELEVISION.      
+        629 0...............0                  
+        377 1...............1                        375 2...............2
+        635 3...............3                        372 4...............4
+        632 5...............5                        630 6...............6
+        378 7...............7                        245 8...............8
+        505 9...............9                        360 CENTER..........Add/Delete
+        568 DOWN............Bright Down              308 UP..............Bright Up
+        697 CHANNEL DOWN....Channel Down             437 CHANNEL UP......Channel Up
+        246 MOVE............Display Position         308 UP..............Function Up
+        313 TV/VCR..........Input Selector           503 SLEEP...........Last Channel       
+        503 RECALL..........Last Channel             313 TV/VCR..........Mute               
+        311 MUTE............Mute
+        246 MOVE............On Timer                 308 UP..............Picture Mode
+        488 FREEZE..........PIP Freeze               234 PIP.............PIP On/Off
+        617 SWAP............PIP Swap                 565 POWER...........Power
+        629 0...............Quick View               311 MUTE............Recall
+        251 DISPLAY.........Recall                   503 RECALL..........Review
+        503 SLEEP...........Review                   568 DOWN............Set Down
+        308 UP..............Set Up                   503 RECALL..........Sleep
+        503 SLEEP...........Sleep                    251 DISPLAY.........Stat/Tim-Ch
+        503 RECALL..........Timer                    503 SLEEP...........Timer
+        246 MOVE............Tint Green               313 TV/VCR..........TV/Vid/RGB
+        313 TV/VCR..........TV/Vid1/Vid2             313 TV/VCR..........TV/Video
+        443 VOLUME DOWN.....Volume Down              695 VOLUME UP.......Volume Up

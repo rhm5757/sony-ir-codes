@@ -1,0 +1,58 @@
+VCRs ---------------- <VCR Group>
+----------------------------------------------------------------------
+0032    400 -/--          246 Day Up        333 MTS           735 Skip        
+        403 1-            641 Digital Off   333 Nicam         492 Slow        
+        240 1/10 Slow     558 Direction     246 Once          563 Slow        
+        492 1/5 Speed     306 Direction Le  732 Open/Close    689 Slow Down   
+        400 11            558 Direction Ri  248 Page Down     687 Slow Up     
+        403 13            333 Dual          506 Page Up       238 Slow-1      
+        655 14            351 Edit Monitor  317 PIP           300 Speed 1     
+        655 2-            593 Eject         483 Program Disp  339 Speed X2    
+        367 Ant/VTR       606 Execute       608 Program Rapi  498 Still/Freeze
+        333 Aud Monitor   558 Forward Step  608 QTR Record T  563 Swing Search
+        642 Audio Insert  300 Forward X1    608 Quick Timer   387 Synchro Edit
+        237 Auto Track    558 Frame Advanc  465 Record 2      621 System Off  
+        237 Auto/Manual   627 Frame Down    738 Record Mode   286 Tape Remain 
+        435 Aux           306 Frame Revers  717 Record Mute   738 Tape Speed  
+        669 AV            364 Frame Up      465 Record Stand  684 Theater     
+        238 Blank Search  546 Funct Memory  468 Replay        382 Theme       
+        536 BS            478 Go To 0       306 Reverse Step  515 Timer Check 
+        252 Cancel        642 Guide         560 Reverse X1    483 Timer Displa
+        285 Counter Memo  447 Hi Speed Rew  497 Search        252 TmrRec Clear
+        286 Counter Rema  348 Index         540 Select Down   323 TV Scan     
+        545 Counter Rese  670 Index Erase   512 Select Left   506 VCR Plus +  
+        540 Cursor Down   418 Index Mark    510 Select Right  369 Video 1     
+        512 Cursor Left   353 Index Search  288 Select Up     382 Video Insert
+        510 Cursor Right  605 Index Search  333 Setup         500 Weekly      
+        288 Cursor Up     606 Info          381 Shift         339 X3          
+        248 Daily         669 Input Select  412 Shuttle Ed L  285 Zero Memory 
+        500 Day Down      333 Main Sub      672 Shuttle Ed Right              
+
+
+VCR.
+        398 0...............0                  274 1...............1                  
+        398 0...............10                 652 ENTER...........12                 
+        526 2...............2                  528 3...............3                  
+        268 4...............4                  531 5...............5                  
+        271 6...............6                  273 7...............7                  
+        525 8...............8                  658 9...............9                  
+        624 A/B.............Ant                432 RECALL..........Auto PB            
+        334 CHANNEL DOWN....Channel Down       594 CHANNEL UP......Channel Up         
+        622 SHIFT FFD.......Cue                480 DISPLAY.........Data Monitor       
+        432 RECALL..........Display            652 ENTER...........Enter              
+        624 A/B.............Exit               723 FAST FORWARD....Fast Forward       
+        480 DISPLAY.........List               415 SHIFT PAUSE.....Menu               
+        303 MUTE............Mute               591 POWER...........On                 
+        480 DISPLAY.........OSD                718 PAUSE...........Pause              
+        720 PLAY............Play               591 POWER...........Power              
+        258 PROGRAM.........Program            334 CHANNEL DOWN....Program Down       
+        594 CHANNEL UP......Program Up         463 RECORD..........Record             
+        370 SHIFT REW.......Review             460 REWIND..........Rewind             
+        622 SHIFT FFD.......Search Forward     370 SHIFT REW.......Search Reverse     
+        466 STOP............Stop               255 SLEEP...........Timer Rec On/Off   
+        334 CHANNEL DOWN....Track Down         594 CHANNEL UP......Track Up           
+        543 SHIFT STOP......Tracking Down      291 SHIFT PLAY......Tracking Up        
+        624 A/B.............TV/MAGN            624 A/B.............TV/VCR             
+        624 A/B.............TV/VTR             591 POWER...........Visual On/Standby  
+        588 VOLUME DOWN.....Volume Down        336 VOLUME UP.......Volume Up          
+        591 POWER...........VTR                

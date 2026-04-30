@@ -1,0 +1,31 @@
+Laser Disk Players -- <VCR Group>
+----------------------------------------------------------------------
+0201    430 +10           370 CD Time       498 Normal        675 X1/8
+        274 1             429 CDV           622 Repeat All    339 X3
+        274 1             397 Clear         300 X1
+        546 Analog        432 Display       412 X1/2
+        291 Back          463 Memory Stop   415 X1/30
+
+VIDEO DISK. Uses with:
+VCR......................VCRs................VCR 034      
+
+        398 0...............0                  274 1...............1
+        274 VOLUME DOWN.....1                  274 VOLUME UP.......1
+        526 2...............2                  528 3...............3
+        268 4...............4                  531 5...............5
+        271 6...............6                  273 7...............7
+        525 8...............8                  658 9...............9
+        563 CHANNEL UP......ACS/AMS Forward    303 CHANNEL DOWN....ACS/AMS Reverse
+        333 SHIFT PAUSE.....Audio Mon          652 ENTER...........Enter
+        723 FAST FORWARD....Fast Forward       403 DISPLAY.........Frame/Time
+        369 SHIFT REW.......LDP Syst On        560 MUTE............Noise Reduce
+        718 SUR.............Pause              720 PLAY............Play
+        591 POWER...........Power              306 PROGRAM.........Program
+        303 CHANNEL DOWN....Program Down       563 CHANNEL UP......Program Up
+        558 RECALL..........Repeat One         460 REWIND..........Rewind
+        652 ENTER...........Search/Next        563 CHANNEL UP......Skip Forward
+        303 CHANNEL DOWN....Skip Reverse       591 POWER...........Standby
+        348 SHIFT PLAY......Step Forward       611 SHIFT STOP......Step Reverse
+        348 SHIFT PLAY......Still Forward      611 SHIFT STOP......Still Reverse
+        466 STOP............Stop               621 SHIFT FFD.......System Off
+        624 A/B.............TV/VTR             624 A/B.............TV/VTR/Disc

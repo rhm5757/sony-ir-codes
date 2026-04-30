@@ -1,0 +1,38 @@
+CD Players ----------- <CD Group>
+----------------------------------------------------------------------
+0605    274 &!?           463 Continue      258 Jog Fwd X1    636 Memory Scan
+        237 +10           675 Delete        515 Jog Fwd X2    463 Play Mode Co
+        274 1             429 Extra         510 Jog Rev X1    412 Space
+        655 Check         675 Group         255 Jog Rev X2    412 Track
+
+CD PLAYER. Uses with:        
+CD PLAYER................CDs..................CD 000       
+CD PLAYER................CDs..................CD 604      
+
+        274 MUTE............&!?                274 1...............&!?
+        498 0...............0                  274 MUTE............1
+        274 1...............1                  498 0...............10
+        526 2...............2                  528 3...............3
+        268 4...............4                  531 5...............5
+        271 6...............6                  273 7...............7
+        525 8...............8                  658 9...............9
+        526 2...............ABC                558 CHANNEL UP......AMS Skip Fwd
+        306 CHANNEL DOWN....AMS Skip Rev       672 SHIFT PAUSE.....Capitals
+        397 SHIFT STOP......Clear              528 3...............DEF
+        672 SHIFT PAUSE.....Disc               687 SHIFT REW.......Disc Skip Dn
+        689 SHIFT FFD.......Disc Skip Up       652 ENTER...........Enter
+        563 FAST FORWARD....Fast Forward       268 4...............GHI
+        531 5...............JKL                588 VOLUME DOWN.....Line Out Lvl Dn
+        336 VOLUME UP.......Line Out Lvl Up    370 DISPLAY.........Memo
+        382 SHIFT PLAY......Memory Input       271 6...............MNO
+        558 CHANNEL UP......Next               689 SHIFT FFD.......Next Disc
+        430 SUR.............Pause              560 PLAY............Play
+        303 RECALL..........Play Md Shuffle    717 PROGRAM.........Play Mode Pgm
+        591 POWER...........Power              306 CHANNEL DOWN....Previous
+        687 SHIFT REW.......Previous Disc      717 PROGRAM.........Program
+        273 7...............PRS                498 0...............QZ
+        627 A/B.............Repeat             300 REWIND..........Rewind
+        563 FAST FORWARD....Search Forward     300 REWIND..........Search Reverse
+        303 RECALL..........Shuffle            690 STOP............Stop
+        370 DISPLAY.........Text               370 DISPLAY.........Time
+        525 8...............TUV                658 9...............WXY

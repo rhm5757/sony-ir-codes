@@ -1,0 +1,21 @@
+VCRs ---------------- <VCR Group>
+0637    245 Blue          378 VISS Skip Fo  245 VISS Skip Re  378 Yellow
+
+VCR.      
+
+        630 EJECT...........Eject              568 STOP............Eject
+        568 STOP............Enter              314 FAST FORWARD....Fast Forward
+        314 RIGHT...........Fast Forward       375 RECORD..........Hold
+        568 STOP............Index              377 DOWN............Menu Down
+        377 PAUSE...........Menu Down          629 LEFT............Menu Left
+        629 REWIND..........Menu Left          314 FAST FORWARD....Menu Right
+        314 RIGHT...........Menu Right         566 PLAY............Menu Up
+        566 UP..............Menu Up            566 UP..............Mix
+        566 PLAY............Mix                377 PAUSE...........Pause
+        377 DOWN............Pause              377 PAUSE...........Pause/Still
+        377 DOWN............Pause/Still        566 PLAY............Play
+        566 UP..............Play               375 RECORD..........REC/OTR
+        629 LEFT............Rewind             629 REWIND..........Rewind
+        377 DOWN............Still              377 PAUSE...........Still
+        568 STOP............Stop               568 STOP............Stop/Eject
+        377 DOWN............Sub Page           377 PAUSE...........Sub Page

@@ -1,0 +1,23 @@
+Satellite Receivers <CABLE Group>
+----------------------------------------------------------------------
+1076    320 ALT Audio     320 I/II          308 Page Down     548 Themes
+        657 Blue          596 Info          572 Page Up       393 White
+        577 Green         320 Language      553 Red           677 Wink
+        300 Guide         468 Options       344 Text          313 Yellow
+
+SATELLITE RECEIVER.
+
+        274 0...............0                        522 1...............1
+        546 2...............2
+        282 3...............3                        498 4...............4
+        234 5...............5                        258 6...............6
+        506 7...............7                        594 8...............8
+        330 9...............9                        534 SHIFT REW.......Back
+        456 CHANNEL DOWN....Channel Down             720 CHANNEL UP......Channel Up
+        456 CHANNEL DOWN....Cursor Down              480 REWIND..........Cursor Left
+        728 FAST FORWARD....Cursor Right             720 CHANNEL UP......Cursor Up
+        360 PLAY............Exit                     238 SUR.............Favorite
+        624 DISPLAY.........Menu                     432 ENTER...........OK
+        536 A/B.............Output                   306 POWER...........Power
+        354 RECALL..........Previous Program         306 POWER...........Standby
+        536 A/B.............TV/SAT

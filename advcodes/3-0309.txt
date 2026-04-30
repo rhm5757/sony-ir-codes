@@ -1,0 +1,25 @@
+Audio Amp/Tuners ----- <CD Group>
+----------------------------------------------------------------------
+0309    251 12            429 CD            689 Tape          639 TV          
+        251 >10           317 Direct Tunin  687 Tuner                         
+
+
+AUDIO AMP/TUNER.
+        444 ENTER...........-/--               411 FAST FORWARD....-BP                
+        505 0...............0                  629 1...............1                  
+        505 0...............10                 503 RECALL..........11                 
+        377 2...............2                  375 3...............3                  
+        635 4...............4                  372 5...............5                  
+        632 6...............6                  630 7...............7                  
+        378 8...............8                  245 9...............9                  
+        444 ENTER...........>10                444 ENTER...........>=10               
+        641 REWIND..........AM                 381 DISPLAY.........AM/FM              
+        732 A/B.............AM/FM/TV           411 FAST FORWARD....Auto/Mono          
+        408 CHANNEL DOWN....Channel Down       660 CHANNEL UP......Channel Up         
+        381 DISPLAY.........FM                 411 FAST FORWARD....FM Mode            
+        411 FAST FORWARD....Mode               663 MUTE............Mute               
+        536 POWER...........Power              408 CHANNEL DOWN....Preset Down        
+        660 CHANNEL UP......Preset Up          382 SLEEP...........Sleep              
+        381 DISPLAY.........Tuner 10 Key       732 A/B.............Tuner/Band         
+        473 VOLUME DOWN.....Volume Down        725 VOLUME UP.......Volume Up          
+

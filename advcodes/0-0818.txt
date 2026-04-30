@@ -1,0 +1,27 @@
+Satellite Receivers - <SAT Group>
+0818    697 Index         377 PLock         695 Radio         473 Store
+        565 LT            506 Program       245 Record Lock   314 System
+        313 Mode          377 Program Lock  505 Slock         698 Timer
+
+SATELLITE RECEIVER.      
+        443 VOLUME UP.......+                  443 RIGHT...........+
+        251 LEFT............-
+        251 VOLUME DOWN.....-                  248 0...............0
+        308 1...............1                  440 2...............2
+        566 3...............3                  372 4...............4
+        568 5...............5                  630 6...............6
+        500 7...............7                  632 8...............8
+        246 9...............9                  378 REAR............Audio
+        571 CHANNEL DOWN....Channel Down       571 DOWN............Channel Down
+        635 CHANNEL UP......Channel Up         635 UP..............Channel Up
+        503 DISPLAY.........Display
+        375 SURROUND........Favorite           571 CHANNEL DOWN....Menu Down
+        571 DOWN............Menu Down          251 VOLUME DOWN.....Menu Left
+        251 LEFT............Menu Left          443 VOLUME UP.......Menu Right
+        443 RIGHT...........Menu Right         635 CHANNEL UP......Menu Up
+        635 UP..............Menu Up            692 MUTE............Mute
+        725 MOVE............Next               438 POWER...........Standby
+        311 TV/VCR..........TV/SAT             251 VOLUME DOWN.....Volume Down
+        251 LEFT............Volume Down        443 VOLUME UP.......Volume Up
+        443 RIGHT...........Volume Up
+

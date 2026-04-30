@@ -1,0 +1,47 @@
+Audio Amp/Tuners ----- <CD Group>
+----------------------------------------------------------------------
+0074    347 11            372 Digital 2     454 S.A. Bass     377 VCR
+        596 12            282 Direction     405 Sound Effect  375 VCR/DAT
+        454 Act Bass Ext  231 FM Mode       581 Source Selec  438 VCR/DAT
+        648 AHB PRO       571 FM/AM         713 Speaker 1     377 VCR/Video 1
+        648 AHB Super Pr  571 Line 1        711 Speaker 2     426 VCR2
+        394 Auto Preset   534 Line 2        282 Tape 1        375 Video
+        534 Aux           635 Line 3        282 Tape 1 Play   377 Video 1
+        491 Band          534 MD/Aux        698 Tape 2        375 Video 2
+        437 D/A Con Dir   282 Minidisc      282 Tape Directi  375 Video/Aux
+        438 DAT           276 Phono         282 Tape Monitor  534 Video/Aux
+        251 DAT Monitor   534 Phono         282 Tape2 Play
+        438 DAT/Tape2     534 Phono/Aux     491 Tuner
+        692 Digital 1     669 Preset        571 Tuner
+
+AUDIO AMP/TUNER. Uses with:        
+CD PLAYER................CDs..................CD 072
+AUDIO CASSETTE...........Cassettes...........VCR 274
+MISCELLANEOUS AUDIO......Misc Audio...........CD 073
+AUDIO AMP/TUNER..........Amp/Tuners........TUNER 1117
+AUDIO AMP/TUNER..........Amp/Tuners........TUNER 1141
+
+        602 ENTER...........+10
+        725 0...............0                  473 1...............1
+        599 RECALL..........10                 471 2...............2
+        731 3...............3                  468 4...............4
+        728 5...............5                  726 6...............6
+        474 7...............7                  341 8...............8
+        601 9...............9                  313 REWIND..........AM
+        378 POWER...........Audio              536 SHIFT PLAY......CD
+        536 SHIFT PLAY......CD Play            245 CHANNEL DOWN....Channel Down
+        505 CHANNEL UP......Channel Up         536 SHIFT PLAY......DAD
+        629 A/B.............DBS
+        645 DISPLAY.........Display            683 SHIFT STOP......DVD
+        500 MUTE............Fade Muting        565 FAST FORWARD....FM
+        500 MUTE............Mute               651 SUR.............On Screen
+        378 POWER...........On/Off             536 SHIFT PLAY......Pause
+        536 SHIFT PLAY......Play/Pause         378 POWER...........Power
+        443 SLEEP...........Sleep              378 POWER...........Standby
+        683 SHIFT STOP......Tape 2 Stop        245 CHANNEL DOWN....Tuner Preset Down
+        505 CHANNEL UP......Tuner Preset Up    521 STOP............Tuning Down
+        261 PLAY............Tuning Up          629 A/B.............TV
+        629 A/B.............TV CH              629 A/B.............TV/DBS
+        683 SHIFT STOP......Video              629 A/B.............Video/TV
+        500 MUTE............Vol Gain Select    506 VOLUME DOWN.....Volume Down
+        246 VOLUME UP.......Volume Up          443 SLEEP...........Wake Up

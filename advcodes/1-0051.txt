@@ -1,0 +1,39 @@
+TVs ------------------ <TV Group>
+----------------------------------------------------------------------
+0051  473 100           381 Level Down    522 PIP Size      384 VHF/UHF     
+      632 Antenna       641 Level Up      707 PIP Swap      255 Video       
+      313 Aud/Vid Norm  246 Local/Dx      641 Right         695 Video 2     
+      515 Audio         313 Normal        512 Search        697 Video 3     
+      471 Closed Capti  412 NR            533 Sharp Down    381 Video Down  
+      737 Down          534 On Timer      281 Sharp Plus    641 Video Up    
+      245 Fav Ch Down   447 PIP           725 Skip          632 VIR II      
+      505 Fav Ch Up     630 PIP Freeze    411 Sound Plus    219 Audio Swap  
+      381 Left          512 PIP Search    728 Up            212 PIP Replay  
+
+
+TELEVISION.
+      726 0...............0                  602 1...............1                  
+      342 2...............2                  344 3...............3                  
+      596 4...............4                  347 5...............5                  
+      599 6...............6                  601 7...............7                  
+      341 8...............8                  474 9...............9                  
+      669 PLAY............A                  692 MENU............Action             
+      665 SHIFT PAUSE.....Audio Mode         669 PLAY............Auto Search        
+      726 0...............AUX                417 PAUSE...........B                  
+      539 STOP............Bright Down        279 SHIFT FFD.......Bright Up          
+      408 RECALL..........Channel Check      500 CHANNEL DOWN....Channel Down       
+      248 CHANNEL UP......Channel Up         406 ENTER...........Enter              
+      417 PAUSE...........Erase              663 A/B.............Input              
+      408 RECALL..........LCV                669 PLAY............Memory             
+      282 MUTE............Mute               660 SLEEP...........Off Timer          
+      252 SHIFT PLAY......On Timer           536 REWIND..........Picture Down       
+      276 FAST FORWARD....Picture Up         663 A/B.............PIP Source         
+      506 POWER...........Power              417 PAUSE...........Program Select     
+      405 DISPLAY.........Recall             408 RECALL..........Rtune              
+      665 SHIFT PAUSE.....SAP                692 MENU............SetUp              
+      660 SLEEP...........Sleep              665 SHIFT PAUSE.....Stereo             
+      660 SLEEP...........Timer              474 9...............Timer Recall       
+      500 CHANNEL DOWN....Tuning Left        248 CHANNEL UP......Tuning Right       
+      666 SHIFT REW.......TV                 663 A/B.............TV/Video           
+      406 ENTER...........Video 1            503 VOLUME DOWN.....Volume Down        
+      251 VOLUME UP.......Volume Up          

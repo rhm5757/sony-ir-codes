@@ -1,0 +1,37 @@
+CD Players ----------- <CD Group>
+0604    655 Check         675 Group         255 Jog Rev X2    627 Repeat
+        463 Continue      258 Jog Fwd X1    382 Memory Input  412 Space
+        675 Delete        515 Jog Fwd X2    636 Memory Scan   412 Track
+        429 Extra         510 Jog Rev X1    463 Play Mode Cont
+
+CD PLAYER. Uses with:
+CD PLAYER................CDs..................CD 000
+CD PLAYER................CDs..................CD 605
+
+        274 1...............&!?                237 SURROUND........+10
+        498 0...............0                  274 1...............1
+        498 0...............10                 498 0...............10/0
+        526 2...............2                  528 3...............3
+        268 4...............4                  531 5...............5
+        271 6...............6                  273 7...............7
+        525 8...............8                  658 9...............9
+        526 2...............ABC                558 UP..............AMS Skip Fwd
+        306 DOWN............AMS Skip Rev       672 SELECT..........Capitals
+        397 CLEAR...........Clear              528 3...............DEF
+        672 SELECT..........Disc               689 RIGHT...........Disc Skip
+        687 LEFT............Disc Skip Dn       689 RIGHT...........Disc Skip Up
+        652 ENTER...........Enter              563 FAST FORWARD....Fast Forward
+        268 4...............GHI                531 5...............JKL
+        588 VOLUME DOWN.....Line Out Level Dn  588 MUTE............Line Out Level Dn
+        336 VOLUME UP.......Line Out Level Up  370 DISPLAY.........Memo
+        271 6...............MNO                558 UP..............Next
+        689 RIGHT...........Next Disc          430 PAUSE...........Pause
+        560 PLAY............Play               717 MENU............Play Mode Program
+        303 RECALL..........Play Mode Shuffle  591 POWER...........Power
+        306 DOWN............Previous           687 LEFT............Previous Disc
+        717 MENU............Program            273 7...............PRS
+        498 0...............QZ                 300 REWIND..........Rewind
+        563 FAST FORWARD....Search Forward     300 REWIND..........Search Reverse
+        303 RECALL..........Shuffle            690 STOP............Stop
+        370 DISPLAY.........Text               370 DISPLAY.........Time
+        525 8...............TUV                658 9...............WXY

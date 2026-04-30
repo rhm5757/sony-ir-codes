@@ -1,0 +1,81 @@
+Audio Amp/Tuners -- <TUNER Group>
+0054    483 AM/FM         663 EQ Band       450 Override      466 Set Up
+        234 Ant           415 EQ Preset     731 Power Off     435 Status
+        498 Band          440 Front         483 Power On      276 Swap
+        531 Band Skip Fw  264 Function      267 Preset        384 Test
+        291 Band Skip Re  418 Memory        251 Previous Cha  642 Time
+        480 By-Pass       545 Menu Down     704 Rear          531 Tune Forward
+        432 Ch Ctrl       281 Menu Up       378 Record        291 Tune Reverse
+        258 Clear         545 Move Down     655 SAP
+        432 Delay         281 Move Up       339 Seek
+        480 DSP On/Off    621 OK            720 Seek
+
+AUDIO AMP/TUNER.
+
+        233 UP..............+                  233 SHIFT UP........+
+        497 DOWN............-                  497 SHIFT DOWN......-
+        403 0...............0                  651 1...............1
+        675 2...............2                  411 3...............3
+        627 4...............4                  363 5...............5
+        387 6...............6                  635 7...............7
+        723 8...............8                  459 9...............9
+        367 REAR............Center             367 REAR............Center Level
+        456 CENTER..........Center Mode        563 CHANNEL DOWN....Channel Down
+        299 CHANNEL UP......Channel Up         728 SURROUND........DSP Mode
+        690 FAST FORWARD....Fast Forward       248 TV/VCR..........Input
+        497 DOWN............Level Down         497 SHIFT DOWN......Level Down
+        233 UP..............Level Up           233 SHIFT UP........Level Up
+        563 CHANNEL DOWN....Memory Down        299 CHANNEL UP......Memory Up
+        594 MENU............Menu Select        497 DOWN............Move Left
+        497 SHIFT DOWN......Move Left          233 UP..............Move Right
+        233 SHIFT UP........Move Right         443 MUTE............Mute
+        714 PAUSE...........Pause              618 PLAY............Play
+        611 POWER...........Power Toggle       563 CHANNEL DOWN....Preset Down
+        299 CHANNEL UP......Preset Up          594 MENU............Program
+        367 REAR............Rear Level         426 REWIND..........Rewind
+        698 STOP............Stop               367 REAR............Surr Levels Cente
+        728 SURROUND........Surrnd Mode        497 SHIFT DOWN......Surround Down
+        497 DOWN............Surround Down      367 REAR............Surround Level
+        233 UP..............Surround Up        233 SHIFT UP........Surround Up
+        426 REWIND..........Tuning Down        690 FAST FORWARD....Tuning Up
+        323 VOLUME DOWN.....Volume Down        571 VOLUME UP.......Volume Up
+
+
+
+
+
+RCA STEREO PROGRAMMING WITH CODE 0054
+
+
+Hello. The first thing you need to do is find out what inputs you need on
+your stereo. Secondly you need to make sure that you know the codes that
+your tv, vcr, and other devices are working on. then you need to program
+code 0054 onto the tuner button of your remote. Next you need to program the
+following device keys with the code indicated for each one. 
+TV: 0047       VCR: 0060         CD: 0053 
+Cassette (goes on an AUX key): 0026 
+
+Now follow the keymover instructions below to get each input onto the
+remote. 
+1. Press the device key that the input is needed for. (tv, vcr, cd, ect.) 
+2. Press P and hold it down until it says time seq. 
+3. Press menu down two times. It will say configure. 
+4. Press the select key once. It will say theater sel. 
+5. Press the menu down about five times until the remote says keymover. 
+6. Press the select key. It will say from. 
+7. Press the desired device key (the one you pressed in step one). 
+8. Press P real quick and let it go. 
+9. Press 483. It will say to
+10. Press tuner. 
+11. Press the key that you want to control the input function. The remote
+will return to device and time. 
+(ex. If you wanted your stereo to switch to CD when you press tuner - 0. You
+are going to press cd in step one. Then follow steps 2-6 exactaly as it
+says. Then in step 7 you are going to press CD again. Then follow steps
+8-10. And in 11 you will press 0. This will put the CD input on the 0.)
+Repeat these steps for TV, VCR, CD, and cassette so that you will be able to
+have all your inputs on the remote. Once you are done doing that, reprogram
+the TV, VCR, and whatever else back to the original codes so your units will
+work properly. After you have done all this everything should work properly
+and your remote should be able to select each input under the tuner mode. 
+

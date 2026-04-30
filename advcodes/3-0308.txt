@@ -1,0 +1,31 @@
+Audio Amplifiers ----- <CD Group>
+----------------------------------------------------------------------
+0308    731 Bass Down     291 Channel Sele  540 Level Up      728 Treble Down 
+        471 Bass Up       575 Digital Aux   453 Sound Effect  468 Treble Up   
+        306 Blank         483 DSS           713 Sound Effect  252 TV          
+        732 BS            483 DVD           687 Super Bass    534 TV Power    
+        558 Center Level  281 Help          351 Tape Monitor  735 VDP 1       
+        306 Center Level  288 Level Down    398 Test          735 VDP 6CH     
+
+
+AUDIO AMPLIFIER.
+        675 SHIFT STOP......3 Stereo Pro Lg    255 9...............Aux                
+        726 SHIFT REW.......Balance Left       474 SHIFT FFD.......Balance Right      
+        639 0...............Band               636 1...............CD                 
+        636 1...............CD 10 Key          509 7...............DAT                
+        701 FAST FORWARD....Delay Time +       449 REWIND..........Delay Time -       
+        412 DISPLAY.........Dolby Pro Logic    663 MUTE............Mute               
+        663 MUTE............Mute -20db         381 8...............Phono              
+        536 POWER...........Power              415 SHIFT PLAY......Pro Logic Mode     
+        405 SHIFT PAUSE.....Pro Logic On/Off   665 SUR.............Pro Logic SFC      
+        596 PLAY............Rear Level +       344 STOP............Rear Level -       
+        405 SHIFT PAUSE.....Sound Virtualizer  344 STOP............Surround Down      
+        665 SUR.............Surround Mode      405 SHIFT PAUSE.....Surround On/Off    
+        412 DISPLAY.........Surround Pro Lg    405 SHIFT PAUSE.....Surround Pro Lg    
+        596 PLAY............Surround Up        382 2...............Tape               
+        642 3...............Tape 2             639 0...............Tuner              
+        639 0...............Tuner 10 Key       258 5...............TV                 
+        510 4...............VCR 1              258 5...............VCR 2              
+        477 6...............VCR 3              473 VOLUME DOWN.....Volume Down        
+        725 VOLUME UP.......Volume Up          
+

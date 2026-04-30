@@ -1,0 +1,64 @@
+Miscellaneous Audio --<AUX Group>  
+0010    282 A On          738 Dolby         657 Memory        606 Surround Level L-
+        279 A/B Off       498 EQ Band       557 Memory Down   608 Surround Level R+
+        540 Audio         655 EQ Slope      305 Memory Up     348 Surround Level R-
+        536 B On          447 File Select   557 Mode Down     305 Surround Mod
+        605 Bass Level D  707 File Select   305 Mode Up       672 Test Tone   
+        353 Bass Level U  429 Flat          447 Music Menu D  483 Theater     
+        238 Car           447 GEQ Down      557 Music Menu L  641 Time Mem 1  
+        351 Center Level  557 GEQ Left      305 Music Menu R  381 Time Mem 2  
+        611 Center Level  305 GEQ Mode      707 Music Menu U  578 Time Mem 3  
+        351 Center Volum  305 GEQ Right     240 Normal        449 User        
+        611 Center Volum  707 GEQ Up        449 P. File       546 Video 1     
+        334 Cursor Down   480 Hall          449 Preset        286 Video 2     
+        594 Cursor Up     702 Hall LPF Dn   707 Preset EQ     288 Video 3     
+        291 Delay Time L  450 Hall LPF Up   738 Pro Logic     285 Video 4     
+        543 Delay Time L  418 Inv L         387 Set           605 Woofer Level Down
+        642 Delay Time L  670 Inv R         732 Simulated     353 Woofer Level Up
+        382 Delay Time L  334 Level Down    305 Sound Field Mode
+        384 Delay Time R  594 Level Up      449 Sound Field User
+        636 Delay Time R  478 Matrix        354 Surround Level L+
+
+
+MISCELLANEOUS AUDIO. Uses with: 
+CD PLAYER................CDs..................CD 000
+AUDIO CASSETTE...........Cassettes...........VCR 559
+MISCELLANEOUS AUDIO......Misc Audio...........CD 159
+AUDIO AMP/TUNER..........Amp/Tuners...........CD 1042
+AUDIO AMP/TUNER..........Amp/Tuners...........CD 1207
+AUDIO AMP/TUNER..........Amp/Tuners...........CD 1358
+AUDIO AMP/TUNER..........Amp/Tuners...........CD 158
+        690 1...............1                  465 0...............10                 
+        430 2...............2                  432 3...............3                  
+        684 4...............4                  435 5...............5                  
+        687 6...............6                  689 7...............7                  
+        303 8...............8                  463 9...............9                  
+        545 TEN.............>10                303 8...............A                  
+        463 9...............B                  689 7...............BGM                
+        687 6...............BGM                465 0...............C                  
+        465 0...............Car                435 5...............Car                
+        687 6...............Car                477 SURROUND MODE...Center Mode        
+        432 3...............Classic            684 4...............Classic            
+        333 CHANNEL DOWN....Cursor Left        593 CHANNEL UP......Cursor Right       
+        690 1...............Disco              430 2...............Disco              
+        432 3...............Disco              627 GEQ.............EQ                 
+        689 7...............F-1                303 8...............F-2                
+        463 9...............F-3                465 0...............F-4                
+        687 6...............Flat               333 CHANNEL DOWN....Frequency Down     
+        593 CHANNEL UP......Frequency Up       627 GEQ.............GEQ On/Off         
+        463 9...............Hall               690 1...............Hall               
+        684 4...............Jazz               432 3...............Jazz               
+        690 1...............Jazz Club          415 VOLUME DOWN.....Master Volume Dn   
+        415 MUTE............Master Volume Dn   675 VOLUME UP.......Master Volume Up   
+        689 7...............Morning            435 5...............Movie              
+        432 3...............Movie              303 8...............Night              
+        627 GEQ.............Parametric EQ      430 2...............Pops               
+        687 6...............Pops               477 SURROUND MODE...Pro logic Mode     
+        477 SURROUND MODE...Pro-Logic          669 DOWN............Rear Level Down    
+        417 UP..............Rear Level Up      669 DOWN............Rear Volume Down   
+        417 UP..............Rear Volume Up     690 1...............Rock               
+        430 2...............Stadium            735 SURROUND OFF....Surround Off       
+        684 4...............Symphony           303 8...............TV-News            
+        463 9...............WM                 465 0...............WM                 
+        689 7...............WM                 684 4...............WM                 
+

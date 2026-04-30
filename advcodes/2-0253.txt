@@ -1,0 +1,11 @@
+VCRs ---------------- <VCR Group>
+----------------------------------------------------------------------
+0253    519 Time Code Write
+
+VCR. Uses with:        
+VCR......................VCRs................VCR 034
+
+        411 PLAY............Data Code          454 RECORD..........Rec Start/Stop
+        720 SHIFT PLAY......T                  460 SHIFT PAUSE.....W
+        460 SHIFT PAUSE.....Wide Angle         720 SHIFT PLAY......Zoom to Tele
+        720 SHIFT PLAY......Zoom to Tlphoto    460 SHIFT PAUSE.....Zoom to Wide

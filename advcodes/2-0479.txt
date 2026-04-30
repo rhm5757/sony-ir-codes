@@ -1,0 +1,35 @@
+VCRs ---------------- <VCR Group>
+----------------------------------------------------------------------
+0479    293 Auto          251 Counter Memo  231 Menu Reset    548 TV/CAP/Text 
+        293 Auto Trackin  500 Counter Rese  491 Reset         251 Zero Return 
+        491 Blank Key     617 Eject         612 Skip Search                   
+        630 Cancel        683 Input Select  245 Speed                         
+        296 CH. 1/2       615 Menu          378 Timer Record                  
+
+
+VCR.
+         437 0...............0                  697 1...............1                  
+         695 2...............2                  443 3...............3                  
+         692 4...............4                  440 5...............5                  
+         438 6...............6                  698 7...............7                  
+         565 8...............8                  313 9...............9                  
+         423 DISPLAY.........Call               571 CHANNEL DOWN....Channel Down       
+         311 CHANNEL UP......Channel Up         632 ENTER...........Enter              
+         377 FAST FORWARD....Fast Forward       677 MUTE............Mute               
+         566 RECORD..........OTR                635 PAUSE...........Pause              
+         314 PLAY............Play               553 POWER...........Power              
+         228 PROGRAM.........Program            506 PROGRAM.........Program CFM        
+         248 RECALL..........Quick View         566 RECORD..........Record             
+         375 REWIND..........Rewind             358 DOWN............Set Down           
+         360 UP..............Set Up             425 SLEEP...........Sleep              
+         635 PAUSE...........Still              629 STOP............Stop               
+         426 SHIFT STOP......Tracking Dn        358 SHIFT REW.......Tracking Down      
+         678 SHIFT PLAY......Tracking Up        360 SHIFT FFD.......Tracking Up        
+         554 A/B.............TV Monitor         568 VOLUME DOWN.....Volume Down        
+         308 VOLUME UP.......Volume Up          
+
+Other codes I found on a Zenith TV/VCR combo:
+    113 Program (but goes to different screen than other program codes)
+    109 Clock Set menu
+    115 Ch Setup menu
+    235 service menu

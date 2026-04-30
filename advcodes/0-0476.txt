@@ -1,0 +1,32 @@
+Cable Converters -- <CABLE Group>
+----------------------------------------------------------------------
+0476    333 A (Diamond)   463 Fast Forward  243 Lock          498 Reserved 1  
+        237 B             627 G             689 M             723 Reserved 2  
+        240 Browse        306 Guide         594 Music         238 Reserved 3  
+        370 C             367 H             429 N             720 Reserved 4  
+        622 D             560 Help (*)      546 O             460 Reserved 5  
+        430 Day Minus     369 I             723 Out Channel   465 Reverse     
+        690 Day Plus      621 J             466 P/F           430 Stop        
+        624 E             435 K             717 Pause                         
+        336 Exit          687 L             690 Play                          
+        364 F             495 List          558 Record                        
+
+
+CABLE CONVERTER.
+        274 0...............0                  526 1...............1                  
+        528 2...............2                  268 3...............3                  
+        531 4...............4                  271 5...............5                  
+        273 6...............6                  525 7...............7                  
+        658 8...............8                  398 9...............9                  
+        492 ENTER...........Cancel             403 CHANNEL DOWN....Channel Down       
+        652 CHANNEL UP......Channel Up         303 STOP............Down               
+        591 SHIFT REW.......Fav Ch             300 DISPLAY.........Info               
+        588 RECALL..........Last Channel       305 REWIND..........Left               
+        718 PROGRAM.........Menu               397 MUTE............Mute               
+        684 SHIFT STOP......Page Down          432 SHIFT PLAY......Page Up            
+        400 POWER...........Power(CATV)        593 PAUSE...........PPV                
+        557 FAST FORWARD....Right              334 SHIFT FFD.......Select             
+        339 A/B.............Switch A/B         497 SHIFT PAUSE.....Theme              
+        563 PLAY............Up                 657 VOLUME DOWN.....Volume Down        
+        655 VOLUME UP.......Volume Up          
+
