@@ -1,0 +1,40 @@
+## Remote: RM-YD026
+## Source: [1]
+
+[D 01      F 021]	Power
+[D 01      F 058]	Display
+[D 01      F 054]	Sleep
+[D 23-3    F 096]	Theater
+[D 23-4    F 123]	Sound Mode
+[D 01      F 100]	Picture Mode
+[D 04-5    F 061]	Wide Mode
+[D 01      F 014]	Guide
+[D 01      F 037]	Input
+[D 01      F 116]	Up
+[D 01      F 052]	Left
+[D 01      F 101]	Select
+[D 01      F 051]	Right
+[D 01      F 117]	Down
+[D 23-4    F 035]	Return
+[D 23-4    F 054]	Tools
+[D 01      F 096]	Menu
+[D 04-5    F 016]	CC
+[D 23-3    F 118]	Favorites
+[D 01      F 059]	Jump
+[D 01      F 000]	1
+[D 01      F 001]	2
+[D 01      F 002]	3
+[D 01      F 003]	4
+[D 01      F 004]	5
+[D 01      F 005]	6
+[D 01      F 006]	7
+[D 01      F 007]	8
+[D 01      F 008]	9
+[D 01      F 009]	0
+[D 23-4    F 029]	. (delimiter)
+[D 01      F 011]	Enter
+[D 01      F 018]	Vol+
+[D 01      F 019]	Vol-
+[D 01      F 016]	Ch+
+[D 01      F 017]	Ch-
+[D 01      F 020]	Muting

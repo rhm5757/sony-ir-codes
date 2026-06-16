@@ -1,0 +1,51 @@
+## Remote: RM-GP4U
+## Mode: 3
+## Source: [1]
+
+[D 26-3-07 F 044]	Standby
+[D 26-3-07 F 020]	Mute
+[D 26-3-07 F 000]	1
+[D 26-3-07 F 001]	2
+[D 26-3-07 F 002]	3
+[D 26-3-07 F 003]	4
+[D 26-3-07 F 004]	5
+[D 26-3-07 F 005]	6
+[D 26-3-07 F 006]	7
+[D 26-3-07 F 007]	8
+[D 26-3-07 F 008]	9
+[D 26-3-07 F 062]	0
+[D 26-3-07 F 061]	Jump
+[D 26-3-07 F 063]	Enter
+[D 26-3-07 F 067]	Application Menu
+[D 26-3-07 F 068]	Application Start
+[D 26-3-07 F 069]	Application Close
+[D 26-3-07 F 039]	Function
+[D 26-3-07 F 018]	Vol+
+[D 26-3-07 F 019]	Vol-
+[D 26-3-07 F 016]	Ch+
+[D 26-3-07 F 017]	Ch-
+[D 26-3-07 F 037]	Size
+[D 26-3-07 F 043]	Audio
+[D 26-3-07 F 057]	Angle
+[D 26-3-07 F 041]	Subtitle
+[D 26-3-07 F 038]	Display
+[D 26-3-07 F 036]	TV/Video
+[D 26-3-07 F 029]	Rec
+[D 26-3-07 F 040]	Rec Mode
+[D 26-3-07 F 030]	Rec Stop
+[D 26-3-07 F 027]	Rew
+[D 26-3-07 F 028]	FF
+[D 26-3-07 F 031]	Prev
+[D 26-3-07 F 032]	Next
+[D 26-3-07 F 024]	Play Stop
+[D 26-3-07 F 026]	Play
+[D 26-3-07 F 025]	Pause
+[D 26-3-07 F 056]	Title
+[D 26-3-07 F 054]	Menu
+[D 26-3-07 F 048]	Up
+[D 26-3-07 F 050]	Left
+[D 26-3-07 F 052]	Enter
+[D 26-3-07 F 051]	Right
+[D 26-3-07 F 049]	Down
+[D 26-3-07 F 053]	Cancel
+[D 26-3-07 F 055]	Return

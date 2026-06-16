@@ -1,0 +1,19 @@
+## Remote: RMT-CCS15iP
+## Source: [1]
+
+[D 04-3    F 111]	Radio/Band
+[D 04-2    F 087]	Off
+[D 04-2    F 067]	Audio in
+[D 04-3    F 018]	Up
+[D 04-2    F 096]	Sleep
+[D 04-3    F 017]	Menu
+[D 04-3    F 019]	Down
+[D 04-3    F 016]	Enter
+[D 04-3    F 051]	Play/Pause
+[D 04-3    F 067]	Preset-/Prev
+[D 04-3    F 068]	Preset+/Next
+[D 04-2    F 048]	Sound
+[D 04-2    F 018]	Vol+
+[D 04-2    F 019]	Vol-
+[D 04-3    F 115]	Tune+
+[D 04-3    F 116]	Tune-

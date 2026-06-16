@@ -1,0 +1,13 @@
+## Remote: RMT-CM5iP
+## Source: [1]
+
+[D 04-2    F 021]	Power
+[D 04-3    F 018]	Up
+[D 04-3    F 017]	Menu
+[D 04-3    F 019]	Down
+[D 04-3    F 016]	Enter
+[D 04-3    F 051]	Play/Pause
+[D 04-3    F 048]	Prev
+[D 04-3    F 049]	Next
+[D 04-2    F 018]	Vol+
+[D 04-2    F 019]	Vol-

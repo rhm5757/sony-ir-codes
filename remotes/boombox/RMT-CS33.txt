@@ -1,0 +1,35 @@
+## Remote: RMT-CS33
+## Source: [1]
+
+[D 04-2    F 021]	Power
+[D 04-2    F 097]	Standby
+[D 04-2    F 096]	Sleep
+[D 04-3    F 000]	1
+[D 04-3    F 001]	2
+[D 04-3    F 002]	3
+[D 04-3    F 003]	4
+[D 04-3    F 004]	5
+[D 04-3    F 005]	6
+[D 04-3    F 006]	7
+[D 04-3    F 007]	8
+[D 04-3    F 008]	9
+[D 04-3    F 012]	0/10
+[D 04-2    F 017]	Mode
+[D 04-3    F 013]	>10
+[D 04-3    F 028]	Display
+[D 04-2    F 071]	Function
+[D 04-2    F 018]	Vol+
+[D 04-2    F 019]	Vol-
+[D 04-2    F 063]	Mega Bass
+[D 04-2    F 048]	Sound
+[D 04-3    F 050]	Play
+[D 04-3    F 057]	Pause
+[D 04-3    F 056]	Stop
+[D 04-3    F 052]	Loop
+[D 04-3    F 048]	Prev
+[D 04-3    F 049]	Next
+[D 04-3    F 058]	Rew
+[D 04-3    F 059]	FF
+[D 04-3    F 111]	Band
+[D 04-3    F 116]	Tune-
+[D 04-3    F 115]	Tune+

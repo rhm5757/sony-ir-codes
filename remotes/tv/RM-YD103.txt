@@ -1,0 +1,54 @@
+## Remote: RM-YD103
+## Source: [1]
+
+[D 01      F 021]	Power
+[D 01      F 037]	Input
+[D 01      F 062]	Pic Off
+[D 26-0    F 088]	Sync Menu
+[D 26-0    F 126]	Related Search
+[D 23-4    F 060]	Prev
+[D 23-4    F 025]	Pause
+[D 23-4    F 024]	Stop
+[D 23-4    F 061]	Next
+[D 23-4    F 027]	Rew
+[D 23-4    F 026]	Play
+[D 23-4    F 028]	FF
+[D 23-4    F 039]	Yellow
+[D 23-4    F 036]	Blue
+[D 23-4    F 037]	Red
+[D 23-4    F 038]	Green
+[D 26-0    F 116]	Social View
+[D 26-0    F 118]	Football
+[D 26-0    F 125]	SEN
+[D 26-0    F 115]	Discover
+[D 26-0    F 124]	Netflix
+[D 01      F 116]	Up
+[D 01      F 052]	Left
+[D 01      F 101]	Select
+[D 01      F 051]	Right
+[D 01      F 117]	Down
+[D 23-4    F 035]	Return
+[D 01      F 096]	Home
+[D 23-4    F 054]	Options
+[D 26-0    F 117]	Key Pad
+[D 01      F 058]	Display
+[D 01      F 014]	Guide
+[D 26-0    F 123]	i-Manual
+[D 01      F 000]	1
+[D 01      F 001]	2
+[D 01      F 002]	3
+[D 01      F 003]	4
+[D 01      F 004]	5
+[D 01      F 005]	6
+[D 01      F 006]	7
+[D 01      F 007]	8
+[D 01      F 008]	9
+[D 01      F 009]	0
+[D 23-4    F 029]	. (delimiter)
+[D 04-5    F 016]	CC/Subtitle
+[D 01      F 020]	Muting
+[D 01      F 018]	Vol+
+[D 01      F 019]	Vol-
+[D 01      F 016]	Ch+
+[D 01      F 017]	Ch-
+[D 01      F 059]	Jump
