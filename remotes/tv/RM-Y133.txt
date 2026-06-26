@@ -1,0 +1,79 @@
+## Remote: RM-Y133
+## Source: [1]
+
+# This was sold as a "Substitute Remote Commander" replacing the following models:
+# RM-717
+# RM-717A
+# RM-719
+# RM-724
+# RM-728
+# RM-729
+# RM-729A
+# RM-730
+# RM-731
+# RM-732
+# RM-734
+# RM-735
+# RM-736
+# RM-743
+# RM-744
+# RM-745
+# RM-746
+# RM-747
+# RM-755
+# RM-756
+# RM-757
+# RM-758
+# RM-764
+# RM-765
+# RM-780
+# RM-781
+# RM-782
+# RM-783
+
+
+[D 01      F 021]	Power
+[D 01      F 121]	Erase
+[D 01      F 120]	Add
+[D 01      F 107]	Auto Pgm
+[D 01      F 125]	Trinitone
+[D 01      F 093]	RGB
+[D 01      F 020]	Muting
+[D 01      F 078]	Cable
+[D 01      F 042]	Ant/Aux
+[D 01      F 054]	Sleep
+[D 01      F 036]	TV
+[D 01      F 064]	Video 1
+[D 01      F 065]	Video 2
+[D 01      F 066]	Video 3
+[D 01      F 044]	Ext-A
+[D 01      F 000]	1
+[D 01      F 001]	2
+[D 01      F 002]	3
+[D 01      F 003]	4
+[D 01      F 004]	5
+[D 01      F 005]	6
+[D 01      F 006]	7
+[D 01      F 007]	8
+[D 01      F 008]	9
+[D 01      F 009]	0
+[D 01      F 058]	Display
+[D 01      F 011]	Enter
+[D 01      F 124]	Select
+[D 01      F 037]	TV/Video
+[D 01      F 116]	Level + (R)
+[D 01      F 117]	Level – (L)
+[D 01      F 023]	MTS
+[D 01      F 041]	Matrix Surround
+[D 01      F 022]	Reset
+[D 01      F 059]	Jump
+[D 01      F 052]	Clear
+[D 01      F 048]	Timer/Block
+[D 01      F 060]	Timer Off/Repeat
+[D 01      F 051]	AM/PM
+[D 01      F 024]	Picture+
+[D 01      F 025]	Picture-
+[D 01      F 018]	Vol+
+[D 01      F 019]	Vol-
+[D 01      F 016]	Ch+
+[D 01      F 017]	Ch-

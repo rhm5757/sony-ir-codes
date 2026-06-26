@@ -1,0 +1,64 @@
+## Remote: RM-D106E
+## Source: [1]
+
+[D 26-1-09 F 021]	Power
+[D 26-1-09 F 022]	Open/Close
+[D 26-1-09 F 000]	1
+[D 26-1-09 F 001]	2
+[D 26-1-09 F 002]	3
+[D 26-1-09 F 003]	4
+[D 26-1-09 F 004]	5
+[D 26-1-09 F 005]	6
+[D 26-1-09 F 006]	7
+[D 26-1-09 F 007]	8
+[D 26-1-09 F 008]	9
+[D 26-1-09 F 009]	0
+[D 26-1-09 F 075]	Search Mode
+[D 26-1-09 F 011]	Enter
+[D 26-1-09 F 107]	Key Sharp
+[D 26-1-09 F 108]	Key Flat
+[D 26-1-09 F 119]	Karaoke Pon
+[D 26-1-09 F 104]	Karaoke Star
+[D 26-1-09 F 015]	Clear
+[D 26-1-09 F 040]	Time
+[D 26-1-09 F 084]	Display
+[D 26-1-09 F 070]	Vocal
+[D 26-1-09 F 024]	Vocal Select
+[D 26-1-09 F 106]	Vocal Support
+[D 26-1-09 F 102]	Guide Melody
+[D 26-1-09 F 053]	Shuffle
+[D 26-1-09 F 031]	Program Reserve
+[D 26-1-09 F 044]	Repeat
+[D 26-1-09 F 042]	A-B
+[D 26-1-09 F 100]	Audio
+[D 26-1-09 F 101]	Angle
+[D 26-1-09 F 099]	Subtitle
+[D 26-1-09 F 098]	Subtitle On/Off
+[D 26-1-09 F 048]	Prev
+[D 26-1-09 F 049]	Next
+[D 26-1-09 F 076]	Effect Mode
+[D 26-1-09 F 074]	Effect Do
+[D 26-1-09 F 050]	Play/Select
+[D 26-1-09 F 057]	Pause
+[D 26-1-09 F 056]	Stop
+[D 26-1-09 F 083]	Set Up
+[D 26-1-09 F 026]	Title
+[D 26-1-09 F 027]	DVD Menu
+[D 26-1-09 F 014]	Return
+[D 26-1-09 F 121]	Up
+[D 26-1-09 F 123]	Left
+[D 26-1-09 F 011]	Enter (OK)
+[D 26-1-09 F 124]	Right
+[D 26-1-09 F 122]	Down
+	
+[D 26-1-09 F 110]	Shuttle Rev 2
+[D 26-1-09 F 114]	Shuttle Rev 1
+[D 26-1-09 F 115]	Shuttle Fwd 1
+[D 26-1-09 F 111]	Shuttle Fwd 2
+	
+[D 26-1-09 F 059]	Jog+
+[D 26-1-09 F 058]	Jog–
+[D 26-1-09 F 041]	Still
+	
+[D 26-1-09 F 097]	Slow Fwd
+[D 26-1-09 F 096]	Slow Rev

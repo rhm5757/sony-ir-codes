@@ -1,0 +1,60 @@
+## Remote: RM-D121A
+## Source: [1]
+
+[D 26-1-09 F 021]	Power
+[D 26-1-09 F 022]	Open/Close
+[D 26-1-09 F 012]	Disc Explorer
+[D 26-1-09 F 000]	1
+[D 26-1-09 F 001]	2
+[D 26-1-09 F 002]	3
+[D 26-1-09 F 003]	4
+[D 26-1-09 F 004]	5
+[D 26-1-09 F 005]	6
+[D 26-1-09 F 006]	7
+[D 26-1-09 F 007]	8
+[D 26-1-09 F 008]	9
+[D 26-1-09 F 009]	0
+[D 26-1-09 F 015]	Clear
+[D 26-1-09 F 011]	Enter
+[D 26-1-09 F 078]	Mega Ctl
+[D 26-1-09 F 079]	Input
+[D 26-1-09 F 040]	Time/Text
+[D 26-1-09 F 064]	Disc 1
+[D 26-1-09 F 065]	Disc 2
+[D 26-1-09 F 066]	Disc 3
+[D 26-1-09 F 067]	Disc 4
+[D 26-1-09 F 068]	Disc 5
+[D 26-1-09 F 053]	Shuffle
+[D 26-1-09 F 031]	Program
+[D 26-1-09 F 044]	Repeat
+[D 26-1-09 F 071]	1/All Discs
+[D 26-1-09 F 088]	DVE
+[D 26-1-09 F 100]	Audio
+[D 26-1-09 F 101]	Angle
+[D 26-1-09 F 099]	Subtitle
+[D 26-1-09 F 073]	Load
+[D 26-1-09 F 048]	Prev
+[D 26-1-09 F 049]	Next
+[D 26-1-09 F 118]	Picture Memory
+[D 26-1-09 F 087]	Bookmark
+[D 26-1-09 F 050]	Play
+[D 26-1-09 F 057]	Pause
+[D 26-1-09 F 056]	Stop
+[D 26-1-09 F 084]	Display
+[D 26-1-09 F 026]	Title
+[D 26-1-09 F 027]	DVD Menu
+[D 26-1-09 F 014]	Return
+[D 26-1-09 F 121]	Up
+[D 26-1-09 F 123]	Left
+[D 26-1-09 F 124]	Right
+[D 26-1-09 F 122]	Down
+[D 26-1-09 F 011]	Enter
+[D 26-1-09 F 114]	Shuttle Rev 1
+[D 26-1-09 F 115]	Shuttle Fwd 1
+[D 26-1-09 F 110]	Shuttle Rev 2
+[D 26-1-09 F 111]	Shuttle Fwd 2
+[D 26-1-09 F 058]	Jog Rev
+[D 26-1-09 F 059]	Jog Fwd
+[D 26-1-09 F 096]	Slow Rev
+[D 26-1-09 F 097]	Slow Fwd
+[D 26-1-09 F 041]	Still

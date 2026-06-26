@@ -1,0 +1,68 @@
+## Remote: RM-Y108
+## Source: [1]
+
+# The VTR1-3/MDP input codes are sent when pressing the Play key along with 
+# the actual Play code.  The TV needs to be configured to switch to the 
+# appropriate input for the device.
+
+[D 01      F 021]	Power
+[D 01      F 020]	Muting
+[D 01      F 054]	Sleep
+[D 01      F 036]	TV
+[D 01      F 064]	Video 1
+[D 01      F 065]	Video 2
+[D 01      F 066]	Video 3
+[D 01      F 000]	1
+[D 01      F 001]	2
+[D 01      F 002]	3
+[D 01      F 003]	4
+[D 01      F 004]	5
+[D 01      F 005]	6
+[D 01      F 006]	7
+[D 01      F 007]	8
+[D 01      F 008]	9
+[D 01      F 009]	0
+[D 01      F 058]	Display
+[D 01      F 011]	Enter
+[D 01      F 042]	Ant/Aux
+[D 01      F 107]	Auto Program
+[D 01      F 041]	SRS
+[D 01      F 100]	ASC
+[D 23-3    F 118]	Favorite
+[D 01      F 059]	Jump
+[D 01      F 048]	Time
+[D 23-3    F 112]	Swivel Left
+[D 23-3    F 113]	Swivel Right
+[D 01      F 024]	Picture +
+[D 01      F 025]	Picture -
+[D 01      F 016]	Ch+
+[D 01      F 017]	Ch-
+[D 01      F 018]	Vol+
+[D 01      F 019]	Vol-
+[D 04-5    F 116]	Ch Index 8
+[D 04-5    F 118]	Ch Index 16
+[D 01      F 092]	Digital Memo
+[D 04-5    F 114]	Memo Display
+[D 04-5    F 110]	(PIP/Effect) Off
+[D 01      F 022]	Reset
+[D 01      F 099]	Exit
+[D 01      F 116]	+ (R)
+[D 01      F 117]	- (L)
+[D 01      F 096]	Menu
+[D 01      F 101]	Return
+
+[D 01      F 088]	PIP Ch+
+[D 01      F 089]	PIP Ch-
+[D 04-5    F 119]	PIP Split
+[D 01      F 095]	PIP Swap
+[D 04-5    F 115]	PIP Replay
+[D 01      F 091]	PIP
+[D 01      F 094]	PIP Position
+[D 04-5    F 124]	PIP Audio
+[D 04-5    F 125]	PIP Ch Scan
+[D 04-5    F 110]	PIP Off
+
+[D 23-3    F 114]	VTR1 (discrete input)
+[D 23-3    F 115]	VTR2 (discrete input)
+[D 23-3    F 116]	VTR3 (discrete input)
+[D 23-3    F 117]	MDP (discrete input)

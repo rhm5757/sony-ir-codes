@@ -1,0 +1,38 @@
+## Remote: RM-D197A
+## Source: [1]
+
+[D 26-1-09 F 021]	Power
+[D 26-1-09 F 022]	Open/Close
+[D 26-1-09 F 000]	1
+[D 26-1-09 F 001]	2
+[D 26-1-09 F 002]	3
+[D 26-1-09 F 003]	4
+[D 26-1-09 F 004]	5
+[D 26-1-09 F 005]	6
+[D 26-1-09 F 006]	7
+[D 26-1-09 F 007]	8
+[D 26-1-09 F 008]	9
+[D 26-1-09 F 009]	0
+[D 26-1-09 F 015]	Clear
+[D 26-1-09 F 100]	Audio
+[D 26-1-09 F 080]	Picture Navi
+[D 26-1-09 F 099]	Subtitle
+[D 26-1-09 F 040]	Time/Text
+[D 26-1-09 F 027]	Menu
+[D 26-1-09 F 121]	Up
+[D 26-1-09 F 123]	Left
+[D 26-1-09 F 011]	Enter
+[D 26-1-09 F 124]	Right
+[D 26-1-09 F 122]	Down
+[D 26-1-09 F 014]	Return
+[D 26-1-09 F 084]	Display
+[D 26-1-09 F 048]	Prev
+[D 26-1-09 F 092]	Replay
+[D 26-2-12 F 020]	Advance
+[D 26-1-09 F 049]	Next
+[D 26-1-09 F 034]	Scan/Slow <<
+[D 26-1-09 F 050]	Play
+[D 26-1-09 F 035]	Scan/Slow >>
+[D 26-2-12 F 059]	Fast/Slow Play
+[D 26-1-09 F 057]	Pause
+[D 26-1-09 F 056]	Stop

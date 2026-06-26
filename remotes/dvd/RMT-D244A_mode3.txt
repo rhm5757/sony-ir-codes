@@ -1,0 +1,51 @@
+## Remote: RMT-D244A
+## Mode: 3
+## Source: [1]
+
+[D 26-2-31 F 021]	Power
+[D 26-2-31 F 022]	Open/Close
+[D 26-2-31 F 000]	1
+[D 26-2-31 F 001]	2
+[D 26-2-31 F 002]	3
+[D 26-2-31 F 003]	4
+[D 26-2-31 F 004]	5
+[D 26-2-31 F 005]	6
+[D 26-2-31 F 006]	7
+[D 26-2-31 F 007]	8
+[D 26-2-31 F 008]	9
+[D 26-2-31 F 009]	0
+[D 26-3-01 F 029]	. (delimiter)
+[D 26-2-31 F 013]	Set
+[D 26-2-31 F 019]	Ch+
+[D 26-2-31 F 020]	Ch-
+[D 26-2-31 F 018]	Input
+[D 26-3-01 F 092]	Digital/Analog
+[D 26-2-31 F 026]	Top Menu
+[D 26-2-31 F 027]	Menu
+[D 26-2-31 F 100]	Audio
+[D 26-2-31 F 099]	Subtitle
+[D 26-2-31 F 083]	System Menu
+[D 26-3-01 F 016]	Title List
+[D 26-3-01 F 028]	Timer
+[D 26-2-31 F 084]	Display
+[D 26-3-01 F 017]	Original/Playlist
+[D 26-2-31 F 121]	Up
+[D 26-2-31 F 123]	Left
+[D 26-2-31 F 011]	Enter
+[D 26-2-31 F 124]	Right
+[D 26-2-31 F 122]	Down
+[D 26-2-31 F 014]	Return
+[D 26-3-01 F 023]	Options
+[D 26-2-31 F 048]	Prev
+[D 26-2-31 F 092]	Replay
+[D 26-3-01 F 020]	Advance
+[D 26-2-31 F 049]	Next
+[D 26-2-31 F 051]	Scan/Slow Rev
+[D 26-2-31 F 050]	Play
+[D 26-2-31 F 052]	Scan/Slow Fwd
+[D 26-2-31 F 015]	Clear
+[D 26-2-31 F 057]	Pause
+[D 26-2-31 F 056]	Stop
+[D 26-2-31 F 025]	Rec
+[D 26-3-01 F 119]	Synchro Rec
+[D 26-2-31 F 030]	Rec Mode
