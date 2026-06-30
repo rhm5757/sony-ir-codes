@@ -1,0 +1,41 @@
+## Remote: RMT-B118A
+## Source: [1]
+
+[D 26-2-28 F 021]	Power
+[D 26-2-28 F 022]	Open/Close
+[D 26-2-28 F 000]	1
+[D 26-2-28 F 001]	2
+[D 26-2-28 F 002]	3
+[D 26-2-28 F 003]	4
+[D 26-2-28 F 004]	5
+[D 26-2-28 F 005]	6
+[D 26-2-28 F 006]	7
+[D 26-2-28 F 007]	8
+[D 26-2-28 F 008]	9
+[D 26-2-28 F 009]	0
+[D 26-2-28 F 100]	Audio
+[D 26-2-28 F 099]	Subtitle
+[D 26-2-28 F 065]	Display
+[D 26-2-28 F 105]	Yellow
+[D 26-2-28 F 102]	Blue
+[D 26-2-28 F 103]	Red
+[D 26-2-28 F 104]	Green
+[D 26-2-28 F 044]	Top Menu
+[D 26-2-28 F 041]	Pop Up/Menu
+[D 26-2-28 F 057]	Up
+[D 26-2-28 F 059]	Left
+[D 26-2-28 F 061]	Enter
+[D 26-2-28 F 060]	Right
+[D 26-2-28 F 058]	Down
+[D 26-2-28 F 067]	Return
+[D 26-2-28 F 063]	Options
+[D 26-2-28 F 066]	Home
+[D 26-2-28 F 087]	Prev
+[D 26-2-28 F 025]	Pause
+[D 26-2-28 F 086]	Next
+[D 26-2-28 F 027]	Rew
+[D 26-2-28 F 026]	Play
+[D 26-2-28 F 028]	FF
+[D 26-2-28 F 075]	Netflix
+[D 26-2-28 F 024]	Stop
+[D 26-2-28 F 076]	SEN

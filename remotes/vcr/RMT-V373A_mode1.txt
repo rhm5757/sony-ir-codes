@@ -1,0 +1,66 @@
+## Remote: RMT-V373A
+## Mode: 1
+## Source: [1]
+
+[D 02      F 021]	Power
+[D 02      F 042]	TV/VTR
+[D 02      F 000]	1
+[D 02      F 001]	2
+[D 02      F 002]	3
+[D 02      F 003]	4
+[D 02      F 004]	5
+[D 02      F 005]	6
+[D 02      F 006]	7
+[D 02      F 007]	8
+[D 02      F 008]	9
+[D 02      F 009]	0
+[D 02      F 011]	Enter
+[D 02      F 079]	Input Select
+[D 02      F 088]	Rec Mode
+[D 02      F 016]	Ch+
+[D 02      F 017]	Ch-
+[D 02      F 083]	Index
+[D 02      F 077]	Menu
+[D 02      F 066]	Up
+[D 02      F 098]	Left
+[D 02      F 081]	Execute
+[D 02      F 097]	Right
+[D 02      F 067]	Down
+[D 02      F 070]	Counter Reset
+[D 02      F 090]	Data Screen
+[D 02      F 099]	Timer Clear
+[D 02      F 072]	Index Mark
+[D 02      F 073]	Index Erase
+[D 02      F 101]	Timer Rec
+[D 02      F 048]	Direction Rev
+[D 02      F 049]	Direction Fwd
+[D 02      F 025]	Pause
+[D 02      F 029]	Record
+[D 02      F 062]	Slow-
+[D 02      F 061]	Slow+
+[D 02      F 020]	x2
+[D 02      F 026]	Play
+[D 02      F 125]	High Speed Rewind
+[D 02      F 040]	Search <<
+[D 02      F 027]	Rew
+[D 02      F 028]	FF
+[D 02      F 041]	Search >>
+[D 02      F 024]	Stop
+
+# Shuttle:
+
+[D 02      F 040]	Search <<
+[D 02      F 048]	x2 Rev (1 of 2)
+[D 02      F 020]	x2 Rev (2 of 2)
+[D 02      F 048]	x1 Rev (1 of 2)
+[D 02      F 051]	x1 Rev (2 of 2)
+[D 02      F 048]	x1/5 Rev (1 of 2)
+[D 02      F 035]	x1/5 Rev (2 of 2)
+[D 02      F 032]	Still
+[D 02      F 049]	x1/5 Fwd (1 of 2)
+[D 02      F 035]	x1/5 Fwd (2 of 2)
+[D 02      F 049]	x1 Fwd (1 of 2)
+[D 02      F 051]	x1 Fwd (2 of 2)
+[D 02      F 049]	x2 Fwd (1 of 2)
+[D 02      F 020]	x2 Fwd (2 of 2)
+[D 02      F 041]	Search >>

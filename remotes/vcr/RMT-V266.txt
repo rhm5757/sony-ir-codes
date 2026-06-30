@@ -1,0 +1,36 @@
+## Remote: RMT-V266
+## Source: [1]
+
+[D 11      F 021]	Power
+[D 11      F 022]	Eject
+[D 11      F 042]	TV/Video
+[D 11      F 065]	Counter/Remain
+[D 11      F 023]	Audio Monitor
+[D 11      F 090]	Display
+[D 11      F 099]	Clear
+[D 26-5    F 096]	VCR Plus+
+[D 11      F 000]	1
+[D 11      F 001]	2
+[D 11      F 002]	3
+[D 11      F 003]	4
+[D 11      F 004]	5
+[D 11      F 005]	6
+[D 11      F 006]	7
+[D 11      F 007]	8
+[D 11      F 008]	9
+[D 11      F 009]	0
+[D 11      F 011]	Enter
+[D 11      F 079]	Input Select
+[D 11      F 016]	Ch+
+[D 11      F 017]	Ch-
+[D 11      F 029]	Rec
+[D 11      F 088]	SP/EP
+[D 11      F 035]	Slow
+[D 11      F 020]	x2
+[D 11      F 077]	Menu
+[D 11      F 093]	Smart Cue
+[D 26-5    F 014]	Up/Pause
+[D 26-5    F 016]	Left/Rew
+[D 26-5    F 024]	OK/Play
+[D 26-5    F 017]	Right/FF
+[D 26-5    F 015]	Down/Stop
