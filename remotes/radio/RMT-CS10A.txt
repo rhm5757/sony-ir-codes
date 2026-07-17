@@ -1,0 +1,30 @@
+## Remote: RMT-CS10A
+## Source: [1]
+
+[D 26-3-02 F 021]	Power
+[D 26-3-02 F 098]	Alarm
+[D 26-3-02 F 096]	Sleep
+[D 26-3-02 F 025]	iPod Play/Pause
+[D 26-3-02 F 111]	Radio/Band
+[D 26-3-02 F 067]	Audio In
+[D 26-3-02 F 032]	iPod Menu
+[D 26-3-02 F 050]	iPod Up
+[D 26-3-02 F 026]	iPod Prev
+[D 26-3-02 F 033]	iPod Enter
+[D 26-3-02 F 027]	iPod Next
+[D 26-3-02 F 051]	iPod Down
+[D 26-3-02 F 115]	Tune/Select +
+[D 26-3-02 F 116]	Tune/Select -
+[D 26-3-02 F 061]	Preset +
+[D 26-3-02 F 062]	Preset -
+[D 26-3-02 F 018]	Vol+
+[D 26-3-02 F 019]	Vol-
+[D 26-3-02 F 048]	Enter
+[D 26-3-02 F 112]	HD Scan
+[D 26-3-02 F 064]	Tone
+[D 26-3-02 F 072]	Menu
+[D 26-3-02 F 113]	Scan
+[D 26-3-02 F 066]	Surround
+[D 26-3-02 F 034]	Tag
+[D 26-3-02 F 075]	Bright
+[D 26-3-02 F 073]	Display

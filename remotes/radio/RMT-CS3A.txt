@@ -1,0 +1,30 @@
+## Remote: RMT-CS3A
+## Source: [1]
+
+[D 26-3-02 F 021]	Power
+[D 26-3-02 F 098]	Alarm
+[D 26-3-02 F 096]	Sleep
+[D 26-3-02 F 000]	1
+[D 26-3-02 F 001]	2
+[D 26-3-02 F 002]	3
+[D 26-3-02 F 003]	4
+[D 26-3-02 F 004]	5
+[D 26-3-02 F 005]	6
+[D 26-3-02 F 006]	7
+[D 26-3-02 F 007]	8
+[D 26-3-02 F 008]	9
+[D 26-3-02 F 009]	0
+[D 26-3-02 F 048]	Enter
+[D 26-3-02 F 115]	Tune/Select+
+[D 26-3-02 F 116]	Tune/Select-
+[D 26-3-02 F 055]	Preset
+[D 26-3-02 F 064]	Tone
+[D 26-3-02 F 018]	Vol+
+[D 26-3-02 F 019]	Vol-
+[D 26-3-02 F 112]	HD Scan
+[D 26-3-02 F 111]	Band
+[D 26-3-02 F 072]	Menu
+[D 26-3-02 F 113]	Scan
+[D 26-3-02 F 067]	Radio/Line In
+[D 26-3-02 F 075]	Bright
+[D 26-3-02 F 073]	Display

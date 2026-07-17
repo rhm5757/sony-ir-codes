@@ -1,0 +1,39 @@
+## Remote: RM-SX5
+## Source: [1]
+
+[D 16      F 021]	Power
+[D 16      F 096]	Sleep
+[D 12      F 105]	Function
+[D 17      F 050]	CD Play
+[D 13      F 015]	Tuner/Band
+[D 14      F 116]	Tape A Play
+[D 14      F 052]	Tape B Play
+[D 26-1-07 F 044]	Repeat
+[D 15      F 042]	MD Play
+[D 15      F 041]	MD Pause
+[D 15      F 040]	MD Stop
+[D 26-1-07 F 048]	Prev
+[D 26-1-07 F 049]	Next
+[D 26-1-07 F 056]	Stop
+[D 26-1-07 F 051]	Rew
+[D 26-1-07 F 052]	FF
+[D 26-1-07 F 057]	Pause
+[D 26-1-07 F 120]	Up
+[D 26-1-07 F 122]	Left
+[D 26-1-07 F 124]	Enter
+[D 26-1-07 F 123]	Right
+[D 26-1-07 F 121]	Down
+[D 12      F 057]	Pro Logic On/Off
+[D 18      F 074]	T.Tone On/Off
+[D 18      F 078]	Rear Level +
+[D 18      F 079]	Rear Level -
+[D 18      F 084]	Center Level +
+[D 18      F 085]	Center Level -
+[D 18      F 054]	File Select
+[D 12      F 070]	DSP
+[D 17      F 028]	Memo Search
+[D 17      F 107]	Memo Scan
+[D 17      F 120]	Loop
+[D 26-1-19 F 119]	Flash
+[D 16      F 018]	Vol+
+[D 16      F 019]	Vol-

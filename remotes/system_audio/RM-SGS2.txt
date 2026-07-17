@@ -1,0 +1,34 @@
+## Remote: RM-SGS2
+## Source: [1]
+
+# Note: this has Sony15 codes instead of the normal Sony12 codes!
+
+[D 16-0    F 021]	Power
+[D 16-0    F 096]	Sleep
+[D 17-0    F 108]	Play Mode
+[D 26-1-07 F 044]	Repeat
+[D 16-0    F 075]	Display
+[D 26-1-07 F 124]	Enter
+[D 16-0    F 124]	Game
+[D 16-0    F 037]	CD
+[D 16-0    F 015]	Tuner/Band
+[D 16-0    F 035]	Tape
+[D 16-0    F 072]	CD Sync
+[D 16-0    F 054]	Rec
+[D 16-0    F 034]	Video(MD)
+[D 26-1-07 F 050]	Rev Play/Play
+[D 26-1-07 F 057]	Pause
+[D 26-1-07 F 056]	Stop
+[D 26-1-07 F 048]	Prev/Preset-
+[D 26-1-07 F 051]	Rew/Tuning-
+[D 26-1-07 F 052]	FF/Tuning+
+[D 26-1-07 F 049]	Next/Preset+
+[D 17-0    F 102]	Album-
+[D 17-0    F 103]	Album+
+[D 16-0    F 018]	Vol+
+[D 17-0    F 061]	Disc-
+[D 16-0    F 122]	Groove
+[D 17-0    F 062]	Disc+
+[D 16-0    F 019]	Vol-
+[D 16-4    F 064]	Surround
+[D 16-4    F 110]	Preset EQ

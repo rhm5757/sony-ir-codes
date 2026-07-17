@@ -1,0 +1,29 @@
+## Remote: RM-SGP5
+## Source: [1]
+
+[D 16      F 021]	Power
+[D 16      F 098]	Clock/Timer Select
+[D 16      F 101]	Clock/Timer Set
+[D 16      F 105]	MD
+[D 16      F 096]	Sleep
+[D 16      F 075]	Display
+[D 17      F 050]	CD Play
+[D 26-1-07 F 057]	Pause
+[D 26-1-07 F 056]	Stop
+[D 16      F 015]	Tuner/Band
+[D 26-1-07 F 048]	Prev/Preset-
+[D 26-1-07 F 049]	Next/Preset+
+[D 14      F 052]	Tape Rev Play/Play
+[D 26-1-07 F 051]	Rew/Tuning-
+[D 26-1-07 F 052]	FF/Tuning+
+[D 16      F 018]	Vol+
+[D 16      F 019]	Vol-
+[D 26-1-07 F 038]	Play Mode/Direction
+[D 26-1-07 F 045]	Repeat/FM Mode
+[D 16      F 014]	Tuner Memory
+[D 26-1-07 F 015]	Clear
+[D 16-4    F 080]	Bass+
+[D 16-4    F 081]	Bass-
+[D 16-4    F 086]	Treble+
+[D 16-4    F 087]	Treble-
+[D 16-4    F 077]	DSG

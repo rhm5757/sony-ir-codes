@@ -1,0 +1,32 @@
+## Remote: RM-SRB5
+## Source: [1]
+
+[D 16      F 021]	Power
+[D 16      F 096]	Sleep
+[D 16      F 098]	Clock/Timer Select
+[D 16      F 101]	Clock/Timer Set
+[D 16      F 075]	Display
+[D 26-1-07 F 089]	Enter
+[D 26-1-07 F 015]	Clear
+[D 16      F 105]	MD/Video
+[D 16      F 037]	CD
+[D 16      F 033]	Tuner/Band
+[D 13      F 023]	Mode
+[D 13      F 033]	Stereo/Mono
+[D 13      F 014]	Memory
+[D 16      F 061]	CD Play
+[D 26-1-07 F 057]	CD Pause
+[D 26-1-07 F 056]	CD Stop
+[D 12      F 055]	Bass-
+[D 12      F 054]	Bass+
+[D 12      F 053]	Treble-
+[D 12      F 052]	Treble+
+[D 26-1-07 F 051]	Rew/Tuning-
+[D 26-1-07 F 052]	FF/Tuning+
+[D 16      F 018]	Vol+
+[D 26-1-07 F 048]	Prev
+[D 12      F 049]	DBFB
+[D 26-1-07 F 049]	Next
+[D 16      F 019]	Vol-
+[D 17      F 108]	Play Mode
+[D 17      F 044]	Repeat

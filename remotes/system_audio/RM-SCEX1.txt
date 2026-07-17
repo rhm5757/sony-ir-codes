@@ -1,0 +1,28 @@
+## Remote: RM-SCEX1
+## Source: [1]
+
+[D 16      F 021]	Power
+[D 17      F 022]	Open/Close
+[D 16      F 075]	Display
+[D 17      F 050]	CD Play
+[D 26-1-07 F 057]	Pause
+[D 26-1-07 F 056]	Stop
+[D 13      F 015]	Tuner/Band
+[D 26-1-07 F 048]	Prev
+[D 26-1-07 F 049]	Next
+[D 12      F 105]	Function
+[D 26-1-07 F 051]	Rew
+[D 26-1-07 F 052]	FF
+[D 17      F 108]	Play Mode
+[D 17      F 044]	Repeat
+[D 12      F 049]	DSG
+[D 13      F 023]	Tuning Mode
+[D 13      F 033]	Stereo/Mono
+[D 12      F 063]	Surround
+[D 13      F 014]	Memory
+[D 16      F 101]	Timer Set
+[D 26-1-07 F 012]	Enter
+[D 16      F 098]	Timer Select
+[D 16      F 096]	Sleep
+[D 16      F 018]	Vol+
+[D 16      F 019]	Vol-

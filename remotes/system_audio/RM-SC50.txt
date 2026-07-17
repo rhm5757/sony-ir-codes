@@ -1,0 +1,30 @@
+## Remote: RM-SC50
+## Source: [1]
+
+[D 16      F 021]	Power
+[D 16      F 096]	Sleep
+[D 16      F 075]	Display
+[D 16      F 098]	Clock/Timer Select
+[D 16      F 101]	Clock/Timer Set
+[D 16      F 014]	Tuner Memory
+[D 26-1-07 F 040]	Play Mode/Tuning Mode
+[D 26-1-07 F 045]	Repeat/FM Mode
+[D 16      F 035]	Tape
+[D 16      F 037]	CD
+[D 16      F 015]	Tuner/Band
+[D 16-4    F 105]	Function
+[D 26-1-07 F 048]	Prev
+[D 26-1-07 F 049]	Next
+[D 26-1-07 F 051]	Rew
+[D 26-1-07 F 052]	FF
+[D 26-1-07 F 050]	Play
+[D 26-1-07 F 057]	Pause
+[D 26-1-07 F 056]	Stop
+[D 26-1-07 F 015]	Clear
+[D 26-1-07 F 124]	Enter
+[D 16-4    F 099]	EQ
+[D 26-1-07 F 062]	Disc Skip
+[D 26-1-07 F 046]	Folder-
+[D 26-1-07 F 047]	Folder+
+[D 16      F 018]	Vol+
+[D 16      F 019]	Vol-

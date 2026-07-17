@@ -1,0 +1,14 @@
+## Remote: RMT-CCDK50A
+## Source: [1]
+
+[D 26-3-02 F 067]	Audio In
+[D 26-3-02 F 061]	Preset
+[D 26-3-02 F 111]	Band
+[D 26-3-02 F 024]	Stop
+[D 26-3-02 F 026]	Prev
+[D 26-3-02 F 028]	Rew
+[D 26-3-02 F 027]	Next
+[D 26-3-02 F 029]	FF
+[D 26-3-02 F 025]	Play/Pause
+[D 26-3-02 F 019]	Vol-
+[D 26-3-02 F 018]	Vol+

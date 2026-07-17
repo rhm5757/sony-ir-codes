@@ -1,0 +1,14 @@
+## Remote: RM-S30
+## Source: [1]
+
+[D 16      F 021]	Power
+[D 16      F 020]	Muting
+[D 16      F 037]	CD
+[D 16      F 033]	FM/AM
+[D 16      F 032]	Phono
+[D 16      F 034]	Video
+[D 16      F 035]	Tape
+[D 16      F 016]	FM/AM Station +
+[D 16      F 017]	FM/AM Station -
+[D 16      F 018]	Volume +
+[D 16      F 019]	Volume -

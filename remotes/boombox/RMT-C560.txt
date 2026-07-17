@@ -1,0 +1,30 @@
+## Remote: RMT-C560
+## Source: [1]
+
+[D 04-2    F 021]	Power
+[D 04-3    F 050]	Play
+[D 04-3    F 057]	Pause
+[D 04-3    F 048]	Prev
+[D 04-3    F 049]	Next
+[D 04-3    F 056]	Stop
+[D 04-3    F 058]	Rew
+[D 04-3    F 059]	FF
+[D 04-3    F 000]	1
+[D 04-3    F 001]	2
+[D 04-3    F 002]	3
+[D 04-3    F 003]	4
+[D 04-3    F 004]	5
+[D 04-3    F 005]	6
+[D 04-3    F 006]	7
+[D 04-3    F 007]	8
+[D 04-3    F 008]	9
+[D 04-3    F 012]	0
+[D 04-3    F 013]	+10
+[D 04-3    F 028]	Display
+[D 04-2    F 066]	CD
+[D 04-2    F 065]	Radio
+[D 04-2    F 064]	Tape/Dub
+[D 04-2    F 017]	Mode
+[D 04-2    F 018]	Vol+
+[D 04-2    F 019]	Vol-
+[D 04-2    F 020]	Mute
