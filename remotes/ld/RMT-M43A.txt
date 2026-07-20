@@ -1,0 +1,45 @@
+## Remote: RMT-M43A
+## Source: [1]
+
+[D 06      F 021]	Power
+[D 06      F 022]	Open/Close
+[D 06      F 064]	Analog/CX
+[D 06      F 023]	Audio Monitor
+[D 06      F 012]	Frame/Time (Scene)
+[D 06      F 058]	Display
+[D 06      F 041]	Repeat
+[D 06      F 071]	1/Side/All
+[D 06      F 056]	Repeat A-B
+[D 06      F 040]	AV Time
+[D 06      F 048]	Program
+[D 06      F 065]	Shuffle
+[D 06      F 069]	Auto Pgm
+[D 06      F 015]	Clear
+[D 06      F 000]	1
+[D 06      F 001]	2
+[D 06      F 002]	3
+[D 06      F 003]	4
+[D 06      F 004]	5
+[D 06      F 005]	6
+[D 06      F 006]	7
+[D 06      F 007]	8
+[D 06      F 008]	9
+[D 06      F 009]	10/0
+[D 06      F 057]	>10
+[D 06      F 044]	Still/Step <
+[D 06      F 043]	Still/Step >
+[D 26-1-04 F 052]	V. Index <
+[D 26-1-04 F 051]	V. Index >
+[D 06      F 030]	Scan <<
+[D 06      F 031]	Scan >>
+[D 26-1-04 F 046]	Video CD Mark
+[D 26-1-04 F 047]	Video CD M.Play
+[D 06      F 053]	Prev
+[D 06      F 052]	Next
+[D 26-1-04 F 049]	PBC On/Off
+[D 26-1-04 F 048]	Return
+[D 06      F 093]	Disc Side A
+[D 06      F 094]	Disc Side B
+[D 06      F 026]	Play
+[D 06      F 025]	Pause
+[D 06      F 024]	Stop

@@ -1,0 +1,23 @@
+## Remote: RMT-DPF5
+## Source: [1]
+
+[D 26-4-31 F 021]	Power
+[D 26-4-31 F 016]	Slideshow
+[D 26-4-31 F 061]	Clock
+[D 26-4-31 F 098]	Single
+[D 26-4-31 F 097]	Index
+[D 26-4-31 F 077]	Menu
+[D 26-4-31 F 119]	Zoom+
+[D 26-4-31 F 114]	Up
+[D 26-4-31 F 117]	Left
+[D 26-4-31 F 118]	Enter
+[D 26-4-31 F 116]	Right
+[D 26-4-31 F 115]	Down
+[D 26-4-31 F 099]	Back
+[D 26-4-31 F 120]	Zoom-
+[D 26-4-31 F 037]	Marking
+[D 26-4-31 F 082]	Select Device
+[D 26-4-31 F 032]	Import
+[D 26-4-31 F 038]	Sort
+[D 26-4-31 F 126]	Rotate
+[D 26-4-31 F 035]	Delete

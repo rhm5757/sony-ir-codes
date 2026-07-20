@@ -1,0 +1,19 @@
+## Remote: RM-ANU009
+## Source: [1]
+
+[D 31-7    F 120]	Up
+[D 31-7    F 116]	Menu
+[D 31-7    F 042]	Prev
+[D 31-7    F 124]	Enter
+[D 31-7    F 041]	Next
+[D 31-7    F 121]	Down
+[D 31-7    F 040]	Play/Pause
+[D 31-7    F 050]	EQ Off
+[D 31-7    F 063]	Surround
+[D 31-7    F 032]	Function
+[D 31-7    F 028]	Bass+
+[D 31-7    F 029]	Bass-
+[D 31-7    F 052]	Treble+
+[D 31-7    F 053]	Treble-
+[D 31-7    F 018]	Vol+
+[D 31-7    F 019]	Vol-

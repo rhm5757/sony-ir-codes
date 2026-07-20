@@ -1,0 +1,42 @@
+## Remote: RM-AH400U
+## Source: [1]
+
+[D 16-1    F 021]	Power
+[D 16-0-05 F 113]	Bluetooth
+[D 16-1    F 106]	TV
+[D 16-0-05 F 016]	HDMI1
+[D 16-0-05 F 017]	HDMI2
+[D 16-1    F 108]	Analog
+[D 16-0-05 F 023]	USB
+[D 16-0-13 F 047]	Auto Sound
+[D 16-5    F 067]	Cinema
+[D 16-5    F 073]	Music
+[D 16-0-05 F 120]	Game
+[D 16-0-13 F 059]	News
+[D 16-0-13 F 024]	Sports
+[D 16-0-13 F 029]	Standard
+[D 16-0-05 F 057]	Voice
+[D 16-0-05 F 126]	Vertical S.
+[D 16-5    F 032]	Night
+[D 16-0-05 F 029]	Music Service
+[D 16-5    F 016]	Dimmer
+[D 16-5    F 120]	Up
+[D 16-5    F 122]	Left
+[D 16-1    F 012]	Select
+[D 16-5    F 123]	Right
+[D 16-5    F 121]	Down
+[D 16-0-01 F 125]	Back
+[D 16-0-01 F 115]	Options
+[D 16-1    F 083]	Home
+[D 16-5    F 078]	Rear+
+[D 16-5    F 079]	Rear-
+[D 16-1    F 018]	Vol+
+[D 16-1    F 019]	Vol-
+[D 16-1    F 092]	Sw+
+[D 16-1    F 093]	Sw-
+[D 16-0-01 F 018]	Audio
+[D 16-1    F 020]	Mute
+[D 16-1    F 075]	Display
+[D 16-0-01 F 048]	Prev
+[D 16-0-01 F 058]	Play/Pause
+[D 16-0-01 F 049]	Next

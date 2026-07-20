@@ -1,0 +1,39 @@
+## Remote: RM-ANP002
+## Source: [1]
+
+[D 16      F 021]	Power
+[D 16-4    F 017]	Network
+[D 16-4    F 105]	Function
+[D 16-4    F 008]	User Profile 1
+[D 16-4    F 009]	User Profile 2
+[D 16-4    F 010]	User Profile 3
+[D 16-4    F 011]	User Profile 4
+[D 16-4    F 012]	User Profile 5
+[D 16-4    F 013]	Favorite Call
+[D 16-4    F 014]	Favorite Add
+[D 16-4    F 015]	Favorite Delete
+[D 16-4    F 004]	Library Mode
+[D 16-4    F 005]	Library Search
+[D 26-1-07 F 046]	Album -
+[D 26-1-07 F 047]	Album +
+[D 16      F 096]	Sleep
+[D 16      F 075]	Display
+[D 16      F 076]	Scroll
+[D 16-4    F 075]	Preset EQ
+[D 16-4    F 077]	DSGX
+[D 26-1-07 F 050]	Play
+[D 26-1-07 F 057]	Pause
+[D 26-1-07 F 056]	Stop
+[D 26-1-07 F 048]	Prev/Tune -
+[D 26-1-07 F 124]	Enter
+[D 26-1-07 F 049]	Next/Tune +
+[D 26-1-07 F 051]	Rew/Left
+[D 16-4    F 126]	Menu
+[D 26-1-07 F 052]	FF/Right
+[D 16      F 018]	Vol +
+[D 16      F 019]	Vol -
+[D 16      F 015]	Tuner/Band
+[D 26-1-07 F 039]	1/All
+[D 26-1-07 F 045]	FM Mode/Repeat
+[D 16-4    F 047]	Tuning Mode
+[D 16      F 014]	Tuner Memory

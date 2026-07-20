@@ -1,0 +1,35 @@
+## Remote: RM-ANP114
+## Source: [1]
+
+[D 16-1    F 021]	Power
+[D 16-5    F 105]	Input
+[D 16-5    F 016]	Display
+[D 16-1    F 092]	SW Vol+
+[D 16-1    F 093]	SW Vol-
+[D 16-0-13 F 047]	Clear Audio+
+[D 16-0-13 F 029]	Standard
+[D 16-5    F 067]	Movie
+[D 16-0-05 F 120]	Game
+[D 16-5    F 073]	Music
+[D 16-0-13 F 025]	P.Audio
+[D 16-0-13 F 024]	Sports
+[D 16-0-05 F 057]	Voice
+[D 16-5    F 032]	Night
+[D 16-5    F 120]	Up
+[D 16-5    F 122]	Left
+[D 16-1    F 012]	OK/Select
+[D 16-5    F 123]	Right
+[D 16-5    F 121]	Down
+[D 16-0-01 F 125]	Return
+[D 16-5    F 119]	Amp Menu
+[D 16-1    F 020]	Muting
+[D 16-1    F 018]	Vol+
+[D 16-1    F 019]	Vol-
+[D 16-0-01 F 048]	Prev
+[D 16-0-01 F 057]	Pause
+[D 16-0-01 F 049]	Next
+[D 16-0-01 F 051]	Rew
+[D 16-0-01 F 050]	Play
+[D 16-0-01 F 052]	FF
+[D 16-0-05 F 119]	Pairing
+[D 16-0-01 F 056]	Stop

@@ -1,0 +1,50 @@
+## Remote: RMT-V501C
+## Source: [1]
+
+[D 26-3-10 F 021]	Power
+[D 26-3-10 F 022]	Eject
+[D 26-3-10 F 106]	Select DVD
+[D 26-3-10 F 105]	Select Video
+[D 26-3-10 F 016]	Ch/Tracking+
+[D 26-3-10 F 017]	Ch/Tracking-
+[D 26-3-10 F 000]	1
+[D 26-3-10 F 001]	2
+[D 26-3-10 F 002]	3
+[D 26-3-10 F 003]	4
+[D 26-3-10 F 004]	5
+[D 26-3-10 F 005]	6
+[D 26-3-10 F 006]	7
+[D 26-3-10 F 007]	8
+[D 26-3-10 F 008]	9
+[D 26-3-10 F 009]	0
+[D 26-3-10 F 099]	Clear
+[D 26-3-10 F 011]	Enter
+[D 26-3-10 F 121]	Muting/Zoom
+[D 26-3-10 F 077]	Set Up
+[D 26-3-10 F 101]	Angle
+[D 26-3-10 F 053]	Repeat/Search
+[D 26-3-10 F 042]	TV/Video
+[D 26-3-10 F 023]	Audio
+[D 26-3-10 F 096]	Subtitle/Timer
+[D 26-3-10 F 030]	Surround
+[D 26-3-10 F 079]	Input Select
+[D 26-3-10 F 091]	Replay
+[D 26-3-10 F 093]	Skip
+[D 26-3-10 F 027]	Rew
+[D 26-3-10 F 028]	FF
+[D 26-3-10 F 029]	Rec
+[D 26-3-10 F 088]	SP/EP
+[D 26-3-10 F 087]	Prev
+[D 26-3-10 F 086]	Next
+[D 26-3-10 F 026]	Play
+[D 26-3-10 F 025]	Pause
+[D 26-3-10 F 024]	Stop
+[D 26-3-10 F 066]	Up
+[D 26-3-10 F 098]	Left
+[D 26-3-10 F 011]	Enter/OK
+[D 26-3-10 F 097]	Right
+[D 26-3-10 F 067]	Down
+[D 26-3-10 F 090]	Display
+[D 26-3-10 F 034]	Top Menu
+[D 26-3-10 F 035]	Menu
+[D 26-3-10 F 036]	Return

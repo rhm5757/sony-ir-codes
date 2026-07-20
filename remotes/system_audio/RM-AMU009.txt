@@ -1,0 +1,32 @@
+## Remote: RM-AMU009
+## Source: [1]
+
+[D 16      F 021]	Power
+[D 16      F 096]	Sleep
+[D 16      F 075]	Display
+[D 26-1-07 F 040]	Play Mode/Tuning Mode
+[D 26-1-07 F 045]	Repeat/FM Mode
+[D 26-1-07 F 015]	Clear
+[D 16-4    F 099]	EQ
+[D 16      F 014]	Tuner Memory
+[D 16      F 101]	Timer Menu
+[D 26-1-07 F 120]	Up
+[D 26-1-07 F 122]	Left
+[D 26-1-07 F 124]	OK/Select
+[D 26-1-07 F 123]	Right
+[D 26-1-07 F 121]	Down
+[D 26-1-07 F 125]	Return
+[D 26-1-07 F 115]	Tool Menu
+[D 26-1-07 F 048]	Prev
+[D 26-1-07 F 046]	Folder -
+[D 26-1-07 F 047]	Folder +
+[D 26-1-07 F 049]	Next
+[D 26-1-07 F 051]	Rew
+[D 26-1-07 F 050]	Play
+[D 26-1-07 F 052]	FF
+[D 26-1-07 F 057]	Pause
+[D 26-1-07 F 056]	Stop
+[D 16      F 018]	Volume +
+[D 16      F 019]	Volume -
+[D 16-4    F 105]	Function +
+[D 16-4    F 106]	Function -
