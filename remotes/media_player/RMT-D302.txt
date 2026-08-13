@@ -1,0 +1,25 @@
+## Remote: RMT-D302
+## Source: [1]
+
+[D 26-7-13 F 021]	Power
+[D 26-7-14 F 103]	Red
+[D 26-7-14 F 104]	Green
+[D 26-7-14 F 105]	Yellow
+[D 26-7-14 F 102]	Blue
+[D 26-7-13 F 084]	Display
+[D 26-7-14 F 076]	SEN
+[D 26-7-13 F 121]	Up
+[D 26-7-13 F 123]	Left
+[D 26-7-13 F 011]	Select
+[D 26-7-13 F 124]	Right
+[D 26-7-13 F 122]	Down
+[D 26-7-13 F 014]	Return
+[D 26-7-14 F 023]	Options
+[D 26-7-13 F 083]	Home
+[D 26-7-13 F 048]	Prev
+[D 26-7-13 F 049]	Next
+[D 26-7-13 F 034]	Rew
+[D 26-7-13 F 050]	Play
+[D 26-7-13 F 035]	FF
+[D 26-7-13 F 057]	Pause
+[D 26-7-13 F 056]	Stop

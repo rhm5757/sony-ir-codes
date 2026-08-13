@@ -1,0 +1,44 @@
+## Remote: RM-S103
+## Source: [1]
+
+# Note: CD and Tape are sent by their Play keys before the Play command
+
+[D 16      F 021]	Power
+[D 16      F 020]	Muting
+[D 12      F 063]	Surround
+
+[D 17      F 048]	CD Prev
+[D 17      F 049]	CD Next
+[D 12      F 049]	DBFB
+[D 16      F 037]	CD
+[D 17      F 050]	CD Play
+[D 17      F 056]	CD Stop
+[D 13      F 016]	Tuner Preset +
+[D 13      F 017]	Tuner Preset -
+[D 17      F 062]	CD D.Skip
+[D 13      F 051]	Tuner Shift
+
+[D 14      F 027]	Deck B Rew
+[D 14      F 028]	Deck B FF
+[D 14      F 025]	Deck B Pause
+[D 16      F 035]	Tape
+[D 14      F 032]	Deck B Rev Play
+[D 16      F 035]	Tape
+[D 14      F 026]	Deck B Play
+[D 14      F 024]	Deck B Stop
+[D 14      F 030]	Deck B Rec
+
+[D 16      F 051]	Deck A Rew
+[D 16      F 052]	Deck A FF
+[D 16      F 035]	Tape
+[D 16      F 055]	Deck A Rev Play
+[D 16      F 035]	Tape
+[D 16      F 050]	Deck A Play
+[D 16      F 056]	Deck A Stop
+
+[D 16      F 033]	Tuner
+[D 16      F 032]	Phono
+[D 16      F 034]	Video
+[D 16      F 070]	DAT
+[D 16      F 018]	Vol+
+[D 16      F 019]	Vol-

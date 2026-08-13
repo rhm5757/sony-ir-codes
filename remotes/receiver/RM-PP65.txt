@@ -1,0 +1,90 @@
+## Remote: RM-PP65
+## Source: [1]
+
+[D 16-1    F 021]	Power
+[D 04-0    F 055]   System Standby (1 of 4)
+[D 01      F 047]   System Standby (2 of 4)
+[D 07      F 047]   System Standby (3 of 4)
+[D 11      F 047]   System Standby (4 of 4)
+
+[D 16-1    F 125]	DVD     (1 of 2)
+[D 16-1    F 034]	Video 1 (1 of 2)
+[D 16-1    F 030]	Video 2
+[D 16-1    F 105]	MD/Tape
+[D 16-1    F 037]	CD
+[D 16-1    F 033]	Tuner
+
+[D 16-5    F 065]	2Ch
+[D 16-5    F 066]	A.F.D.
+[D 16-5    F 110]	Mode
+[D 16-5    F 074]	T.Tone
+
+[D 16-1    F 020]	Muting
+[D 16-1    F 018]	Vol+
+[D 16-1    F 019]	Vol-
+[D 16-5    F 119]	Main Menu
+
+# Tuner
+
+[D 16-1    F 000]	1
+[D 16-1    F 001]	2
+[D 16-1    F 002]	3
+[D 16-1    F 003]	4
+[D 16-1    F 004]	5
+[D 16-1    F 005]	6
+[D 16-1    F 006]	7
+[D 16-1    F 007]	8
+[D 16-1    F 008]	9
+[D 16-1    F 009]	0/10
+[D 16-1    F 016]	Preset+
+[D 16-1    F 017]	Preset-
+[D 16-5    F 113]	Shift
+[D 16-5    F 040]	D.Tuning
+[D 16-5    F 120]	Up
+[D 16-5    F 122]	Left
+[D 16-1    F 012]	Select
+[D 16-5    F 123]	Right
+[D 16-5    F 121]	Down
+[D 16-1    F 075]	Display
+
+# VCR/DVD Combo
+
+[D 26-3-10 F 021]   (VCR/DVD) Power
+
+[D 26-3-10 F 106]	DVD     (2 of 2)
+[D 26-3-10 F 105]   Video 1 (2 of 2)
+
+[D 26-3-10 F 042]	(VCR/DVD) Ant
+[D 26-3-10 F 000]	(VCR/DVD) 1
+[D 26-3-10 F 001]	(VCR/DVD) 2
+[D 26-3-10 F 002]	(VCR/DVD) 3
+[D 26-3-10 F 003]	(VCR/DVD) 4
+[D 26-3-10 F 004]	(VCR/DVD) 5
+[D 26-3-10 F 005]	(VCR/DVD) 6
+[D 26-3-10 F 006]	(VCR/DVD) 7
+[D 26-3-10 F 007]	(VCR/DVD) 8
+[D 26-3-10 F 008]	(VCR/DVD) 9
+[D 26-3-10 F 009]	(VCR/DVD) 0/10
+[D 26-3-10 F 010]	(VCR/DVD) >10/11
+[D 26-3-10 F 011]	(VCR/DVD) Enter/12
+[D 26-3-10 F 023]	(VCR/DVD) Audio
+[D 26-3-10 F 016]	(VCR/DVD) Ch+
+[D 26-3-10 F 017]	(VCR/DVD) Ch-
+[D 26-3-10 F 099]	(VCR/DVD) Clear
+[D 26-3-10 F 087]	(VCR/DVD) Prev
+[D 26-3-10 F 086]	(VCR/DVD) Next
+[D 26-3-10 F 027]	(VCR/DVD) Rew
+[D 26-3-10 F 028]	(VCR/DVD) FF
+[D 26-3-10 F 026]	(VCR/DVD) Play
+[D 26-3-10 F 025]	(VCR/DVD) Pause
+[D 26-3-10 F 024]	(VCR/DVD) Stop
+[D 26-3-10 F 034]	(VCR/DVD) Top Menu
+[D 26-3-10 F 035]	(VCR/DVD) Menu
+[D 26-3-10 F 066]	(VCR/DVD) Up
+[D 26-3-10 F 098]	(VCR/DVD) Left
+[D 26-3-10 F 011]	(VCR/DVD) Select
+[D 26-3-10 F 097]	(VCR/DVD) Right
+[D 26-3-10 F 067]	(VCR/DVD) Down
+[D 26-3-10 F 090]	(VCR/DVD) Display
+[D 26-3-10 F 036]	(VCR/DVD) Return/Exit
+[D 26-3-10 F 077]	(VCR/DVD) Set Up

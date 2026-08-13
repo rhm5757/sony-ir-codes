@@ -1,0 +1,38 @@
+## Remote: RM-X170
+## Source: [1]
+
+[D 04-4    F 013]	Off
+[D 04-4    F 020]	Att
+[D 04-4    F 027]	Prev
+[D 04-4    F 057]	Play/Pause
+[D 04-4    F 028]	Next
+[D 04-4-00 F 085]	Monitor Off
+[D 04-4-00 F 094]	Audio
+[D 04-4-00 F 093]	Subtitle
+[D 04-4-00 F 095]	Angle
+[D 04-4    F 107]	Position
+[D 04-4    F 011]	Return
+[D 04-4-00 F 089]	Top Menu
+[D 04-4-00 F 090]	Menu
+[D 04-4    F 054]	EQ
+[D 04-4-00 F 084]	Zap
+[D 04-4    F 051]	Up
+[D 04-4    F 053]	Left
+[D 04-4    F 092]	Enter
+[D 04-4    F 052]	Right
+[D 04-4    F 050]	Down
+[D 04-4    F 000]	1
+[D 04-4    F 001]	2
+[D 04-4    F 002]	3
+[D 04-4    F 003]	4
+[D 04-4    F 004]	5
+[D 04-4    F 005]	6
+[D 04-4    F 006]	7
+[D 04-4    F 007]	8
+[D 04-4    F 008]	9
+[D 04-4    F 009]	0
+[D 04-4-00 F 088]	Clear
+[D 04-4    F 070]	Src
+[D 04-4    F 071]	Mode
+[D 04-4    F 018]	Vol+
+[D 04-4    F 019]	Vol-

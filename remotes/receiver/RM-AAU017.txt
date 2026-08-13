@@ -1,0 +1,91 @@
+## Remote: RM-AAU017
+## Source: [1]
+
+[D 16-1    F 021]	Power
+[D 04-0    F 055]	System Standby (1 of 10)
+[D 01      F 047]	System Standby (2 of 10)
+[D 07      F 047]	System Standby (3 of 10)
+[D 11      F 047]	System Standby (4 of 10)
+[D 26-1-09 F 047]	System Standby (5 of 10)
+[D 26-2-31 F 047]	System Standby (6 of 10)
+[D 26-2-14 F 047]	System Standby (7 of 10)
+[D 23-5    F 047]	System Standby (8 of 10)
+[D 26-2-28 F 047]	System Standby (9 of 10)
+[D 23-5-02 F 047]	System Standby (10 of 10)
+
+[D 16-1    F 096]	Sleep
+
+[D 16-0-05 F 048]	DMPort
+[D 16-1    F 034]	Video 1
+[D 16-1    F 030]	Video 2
+[D 16-1    F 066]   Video 3
+[D 16-1    F 125]	DVD
+[D 16-5    F 003]	Sat
+[D 16-1    F 106]	TV
+[D 16-1    F 037]	SA-CD/CD
+[D 16-1    F 033]	Tuner
+
+[D 16-5    F 065]	2Ch
+[D 16-5    F 066]	A.F.D.
+[D 16-5    F 067]	Movie
+[D 16-5    F 073]	Music
+[D 16-5    F 119]	Amp Menu
+[D 16-0-05 F 040]	Auto Cal
+
+[D 16-1    F 020]	Muting
+[D 16-1    F 018]	Vol+
+[D 16-1    F 019]	Vol-
+
+# Tuner
+
+[D 16-1    F 000]	1
+[D 16-1    F 001]	2
+[D 16-1    F 002]	3
+[D 16-1    F 003]	4
+[D 16-1    F 004]	5
+[D 16-1    F 005]	6
+[D 16-1    F 006]	7
+[D 16-1    F 007]	8
+[D 16-1    F 008]	9
+[D 16-1    F 009]	0
+[D 16-1    F 014]	Memory
+[D 16-5    F 040]	D.Tuning
+[D 16-5    F 045]	FM Mode
+[D 16-1    F 075]	Display
+[D 16-5    F 120]	Up
+[D 16-5    F 122]	Left
+[D 16-1    F 012]	Select
+[D 16-5    F 123]	Right
+[D 16-5    F 121]	Down
+[D 16-1    F 017]	Preset-
+[D 16-1    F 016]	Preset+
+[D 16-5    F 044]	Tuning-
+[D 16-5    F 043]	Tuning+
+
+# DMPort
+
+[D 16-0-01 F 000]	(DMPort) 1
+[D 16-0-01 F 001]	(DMPort) 2
+[D 16-0-01 F 002]	(DMPort) 3
+[D 16-0-01 F 003]	(DMPort) 4
+[D 16-0-01 F 004]	(DMPort) 5
+[D 16-0-01 F 005]	(DMPort) 6
+[D 16-0-01 F 006]	(DMPort) 7
+[D 16-0-01 F 007]	(DMPort) 8
+[D 16-0-01 F 008]	(DMPort) 9
+[D 16-0-01 F 009]	(DMPort) 0
+[D 16-0-01 F 115]	(DMPort) Tools
+[D 16-0-01 F 120]	(DMPort) Up
+[D 16-0-01 F 122]	(DMPort) Left
+[D 16-0-01 F 124]	(DMPort) Select
+[D 16-0-01 F 123]	(DMPort) Right
+[D 16-0-01 F 121]	(DMPort) Down
+[D 16-0-01 F 113]	(DMPort) Return
+[D 16-0-01 F 112]	(DMPort) Menu
+[D 16-0-01 F 048]	(DMPort) Prev
+[D 16-0-01 F 049]	(DMPort) Next
+[D 16-0-01 F 051]	(DMPort) Rew
+[D 16-0-01 F 050]	(DMPort) Play
+[D 16-0-01 F 052]	(DMPort) FF
+[D 16-0-01 F 057]	(DMPort) Pause
+[D 16-0-01 F 056]	(DMPort) Stop

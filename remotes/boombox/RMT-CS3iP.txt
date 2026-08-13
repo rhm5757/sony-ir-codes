@@ -1,0 +1,21 @@
+## Remote: RMT-CS3iP
+## Source: [1]
+
+[D 04-2    F 021]	Power
+[D 04-2    F 070]	iPod
+[D 04-2    F 066]	CD
+[D 04-2    F 069]	Radio/Band
+[D 04-2    F 096]	Sleep
+[D 04-3    F 017]	Menu
+[D 04-3    F 018]	Up/Tune+
+[D 04-3    F 019]	Down/Tune-
+[D 04-3    F 016]	Enter
+[D 04-3    F 051]	Play/Pause
+[D 04-3    F 067]	Prev/Preset-
+[D 04-3    F 068]	Next/Preset+
+[D 04-3    F 056]	Stop
+[D 04-2    F 018]	Vol+
+[D 04-2    F 019]	Vol-
+[D 04-2    F 017]	Mode
+[D 04-2    F 063]	Mega Bass
+[D 04-2    F 067]	Audio In

@@ -1,0 +1,75 @@
+## Remote: RM-AAU072
+## Source: [1]
+
+[D 16-1    F 021]	Power
+[D 04-0    F 055]	System Standby
+
+[D 16-0-05 F 022]	BD
+[D 16-1    F 125]	DVD
+[D 16-5    F 003]	SAT/CATV
+[D 16-1    F 106]	TV
+[D 16-1    F 034]	Video
+[D 16-1    F 037]	SA-CD/CD
+[D 16-0-05 F 048]	DMPort
+
+[D 16-5    F 032]	Night Mode
+[D 16-1    F 096]	Sleep
+[D 16-1    F 075]	Display
+[D 16-5    F 119]	Amp Menu
+
+[D 16-1    F 020]	Muting
+[D 16-1    F 018]	Vol+
+[D 16-1    F 019]	Vol-
+[D 16-5    F 110]	Sound Field+
+[D 16-5    F 111]	Sound Field-
+
+# Amp Menu (no tuner on this model)
+
+[D 16-5    F 120]	Up
+[D 16-5    F 122]	Left
+[D 16-1    F 012]	OK/Select
+[D 16-5    F 123]	Right
+[D 16-5    F 121]	Down
+[D 16-0-01 F 125]	Return/Exit
+[D 16-0-01 F 115]	Tools/Options
+[D 16-5    F 046]	Menu/Home
+[D 16-1    F 000]	1
+[D 16-1    F 001]	2
+[D 16-1    F 002]	3
+[D 16-1    F 003]	4
+[D 16-1    F 004]	5
+[D 16-1    F 005]	6
+[D 16-1    F 006]	7
+[D 16-1    F 007]	8
+[D 16-1    F 008]	9
+[D 16-1    F 009]	0/10
+[D 16-1    F 012]	Enter
+
+# DMPort
+
+[D 16-0-01 F 120]	(DMPort) Up
+[D 16-0-01 F 122]	(DMPort) Left
+[D 16-0-01 F 124]	(DMPort) OK/Select
+[D 16-0-01 F 123]	(DMPort) Right
+[D 16-0-01 F 121]	(DMPort) Down
+[D 16-0-01 F 113]	(DMPort) Return
+[D 16-0-01 F 115]	(DMPort) Tools/Options
+[D 16-0-01 F 112]	(DMPort) Menu
+[D 16-0-01 F 051]	(DMPort) Rew
+[D 16-0-01 F 050]	(DMPort) Play
+[D 16-0-01 F 052]	(DMPort) FF
+[D 16-0-01 F 048]	(DMPort) Prev
+[D 16-0-01 F 057]	(DMPort) Pause
+[D 16-0-01 F 056]	(DMPort) Stop
+[D 16-0-01 F 049]	(DMPort) Next
+[D 16-0-01 F 000]	(DMPort) 1
+[D 16-0-01 F 001]	(DMPort) 2
+[D 16-0-01 F 002]	(DMPort) 3
+[D 16-0-01 F 003]	(DMPort) 4
+[D 16-0-01 F 004]	(DMPort) 5
+[D 16-0-01 F 005]	(DMPort) 6
+[D 16-0-01 F 006]	(DMPort) 7
+[D 16-0-01 F 007]	(DMPort) 8
+[D 16-0-01 F 008]	(DMPort) 9
+[D 16-0-01 F 009]	(DMPort) 0/10
+[D 16-0-01 F 012]	(DMPort) Enter

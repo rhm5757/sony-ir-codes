@@ -1,0 +1,63 @@
+## Remote: RM-ANP037
+## Source: [1]
+
+[D 16-1    F 021]	Power
+[D 04-0    F 055]	System Standby (1 of 11)
+[D 01      F 047]	System Standby (2 of 11)
+[D 26-1-09 F 047]	System Standby (3 of 11)
+[D 26-2-31 F 047]	System Standby (4 of 11)
+[D 26-2-28 F 047]	System Standby (5 of 11)
+[D 26-2-30 F 047]	System Standby (6 of 11)
+[D 23-5-02 F 047]	System Standby (7 of 11)
+[D 26-1-14 F 047]	System Standby (8 of 11)
+[D 23-5    F 047]	System Standby (9 of 11)
+[D 07      F 047]	System Standby (10 of 11)
+[D 11      F 047]	System Standby (11 of 11)
+
+[D 16-1    F 106]	TV
+[D 16-0-05 F 022]	BD
+[D 16-1    F 125]	DVD
+[D 16-5    F 003]	Sat/CATV
+[D 16-0-05 F 048]	DMPort
+[D 16-1    F 034]	Video 1
+[D 16-1    F 030]	Video 2
+[D 16-1    F 066]	Video 3
+[D 16-1    F 015]	Tuner/Band
+
+[D 16-0-01 F 000]	1
+[D 16-0-01 F 001]	2
+[D 16-0-01 F 002]	3
+[D 16-0-01 F 003]	4
+[D 16-0-01 F 004]	5
+[D 16-0-01 F 005]	6
+[D 16-0-01 F 006]	7
+[D 16-0-01 F 007]	8
+[D 16-0-01 F 008]	9
+[D 16-0-01 F 009]	0
+[D 16-0-01 F 012]	Enter
+[D 16-1    F 075]	Display
+[D 16-1    F 083]	GUI Menu
+[D 16-0-01 F 120]	Up
+[D 16-0-01 F 122]	Left
+[D 16-0-01 F 124]	Select
+[D 16-0-01 F 123]	Right
+[D 16-0-01 F 121]	Down
+[D 16-0-01 F 125]	Return
+[D 16-0-01 F 112]	Menu
+[D 16-0-01 F 115]	Tools/Options
+[D 16-0-01 F 048]	Prev
+[D 16-0-01 F 046]	Replay
+[D 16-0-01 F 047]	Advance
+[D 16-0-01 F 049]	Next
+[D 16-0-01 F 051]	Rew
+[D 16-0-01 F 050]	Play
+[D 16-0-01 F 052]	FF
+[D 16-0-01 F 057]	Pause
+[D 16-0-01 F 056]	Stop
+[D 16-1    F 020]	Muting
+[D 16-1    F 018]	Vol+
+[D 16-1    F 019]	Vol-
+[D 16-1    F 016]	Ch+
+[D 16-1    F 017]	Ch-
+[D 16-5    F 110]	Sound Field
+[D 16-5    F 119]	System Menu

@@ -1,0 +1,32 @@
+## Remote: RM-SRG440
+## Source: [1]
+
+[D 16      F 021]	Power
+[D 16      F 096]	Sleep
+[D 16      F 098]	Clock/Timer Select
+[D 16      F 101]	Clock/Timer Set
+[D 26-1-07 F 050]	Play
+[D 26-1-07 F 057]	Pause
+[D 26-1-07 F 056]	Stop/Clear
+[D 26-1-07 F 048]	Prev/Preset-
+[D 26-1-07 F 049]	Next/Preset+
+[D 16      F 075]	Display
+[D 26-1-07 F 051]	Rew/Tuning-
+[D 26-1-07 F 052]	FF/Tuning+
+[D 17      F 062]	D.Skip
+[D 26-1-07 F 038]	Play Mode
+[D 26-1-07 F 045]	Repeat/FM Mode
+[D 16      F 014]	Tuner Memory
+[D 16      F 037]	CD
+[D 16      F 015]	Tuner/Band
+[D 16      F 035]	Tape A/B
+[D 16      F 029]	Game (MD)
+[D 16-4    F 110]	Preset EQ
+[D 16-4    F 064]	Surround
+[D 16      F 018]	Vol+
+[D 26-1-06 F 110]	Album-
+[D 26-1-07 F 124]	Enter
+[D 26-1-06 F 111]	Album+
+[D 16      F 019]	Vol-
+[D 16-4    F 052]	Illumination
+[D 16      F 122]	Groove

@@ -1,0 +1,51 @@
+## Remote: RM-ADU007A
+## Source: [1]
+
+[D 16-2    F 021]	Power
+[D 16-0-02 F 078]	One-Touch Play
+[D 16-2    F 096]	Sleep
+[D 16-6    F 105]	Function+
+[D 16-6    F 106]	Function-
+[D 16-0-02 F 062]	Disc Skip
+[D 16-2    F 075]	Display
+[D 16-0-02 F 028]	Picture Navi
+[D 16-0-02 F 018]	Audio
+[D 16-0-02 F 017]	Subtitle
+[D 16-0-02 F 019]	Angle
+[D 16-0-02 F 000]	1
+[D 16-0-02 F 001]	2
+[D 16-0-02 F 002]	3
+[D 16-0-02 F 003]	4
+[D 16-0-02 F 004]	5
+[D 16-0-02 F 005]	6
+[D 16-0-02 F 006]	7
+[D 16-0-02 F 007]	8
+[D 16-0-02 F 008]	9
+[D 16-0-02 F 009]	0
+[D 16-0-02 F 015]	Clear
+[D 16-6    F 119]	System Menu
+[D 16-0-06 F 060]	S-Air Mode
+[D 16-6    F 032]	Night
+[D 16-6    F 075]	Sound Mode
+[D 16-6    F 077]	Dynamic Bass
+[D 16-0-02 F 025]	DVD Top Menu
+[D 16-0-02 F 026]	DVD Menu
+[D 16-0-02 F 120]	Up
+[D 16-0-02 F 122]	Left
+[D 16-0-02 F 124]	Select
+[D 16-0-02 F 123]	Right
+[D 16-0-02 F 121]	Down
+[D 16-0-02 F 125]	Return
+[D 16-0-02 F 024]	(Screen) Display
+[D 16-2    F 020]	Muting
+[D 16-2    F 018]	Vol+
+[D 16-2    F 019]	Vol-
+[D 16-0-02 F 048]	Prev/Preset-
+[D 16-0-02 F 033]	Replay
+[D 16-0-02 F 032]	Advance
+[D 16-0-02 F 049]	Next/Preset+
+[D 16-0-02 F 051]	Rew/Tuning-
+[D 16-6    F 002]	Play
+[D 16-0-02 F 052]	FF/Tuning+
+[D 16-6    F 001]	Pause
+[D 16-6    F 000]	Stop

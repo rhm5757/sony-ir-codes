@@ -1,0 +1,22 @@
+## Remote: RM-S112
+## Source: [1]
+
+# Note: CD is sent by its Play key before the Play command
+
+[D 16      F 021]	Power
+[D 17      F 053]	CD Shuffle
+[D 17      F 031]	CD Pgm
+[D 17      F 048]	CD Prev
+[D 17      F 049]	CD Next
+[D 16      F 037]	CD
+[D 17      F 050]	CD Play
+[D 17      F 056]	CD Stop
+[D 13      F 016]	Tuner Preset+
+[D 17      F 062]	CD D.Skip
+[D 17      F 029]	CD Continue
+[D 13      F 017]	Tuner Preset-
+[D 16      F 033]	Tuner
+[D 16      F 032]	Phono
+[D 16      F 035]	Tape
+[D 16      F 018]	Vol+
+[D 16      F 019]	Vol-
