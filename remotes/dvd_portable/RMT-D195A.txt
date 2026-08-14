@@ -1,0 +1,38 @@
+## Remote: RMT-D195A
+## Source: [1]
+
+[D 26-2-02 F 084]	Display
+[D 26-2-02 F 000]	1
+[D 26-2-02 F 001]	2
+[D 26-2-02 F 002]	3
+[D 26-2-02 F 003]	4
+[D 26-2-02 F 004]	5
+[D 26-2-02 F 005]	6
+[D 26-2-02 F 006]	7
+[D 26-2-02 F 007]	8
+[D 26-2-02 F 008]	9
+[D 26-2-02 F 009]	0
+[D 26-2-02 F 015]	Clear
+[D 26-2-02 F 100]	Audio
+[D 26-2-02 F 062]	Vol+
+[D 26-2-02 F 061]	Vol-
+[D 26-2-02 F 101]	Angle
+[D 26-2-02 F 099]	Subtitle
+[D 26-2-02 F 026]	Top Menu
+[D 26-2-02 F 027]	Menu
+[D 26-2-02 F 121]	Up
+[D 26-2-02 F 123]	Left
+[D 26-2-02 F 011]	Enter
+[D 26-2-02 F 124]	Right
+[D 26-2-02 F 122]	Down
+[D 26-2-02 F 014]	Return
+[D 26-2-02 F 023]	Options
+[D 26-2-02 F 048]	Prev
+[D 26-2-02 F 092]	Replay
+[D 26-2-02 F 017]	Advance
+[D 26-2-02 F 049]	Next
+[D 26-2-02 F 034]	Scan/Slow Rev
+[D 26-2-02 F 050]	Play
+[D 26-2-02 F 035]	Scan/Slow Fwd
+[D 26-2-02 F 057]	Pause
+[D 26-2-02 F 056]	Stop

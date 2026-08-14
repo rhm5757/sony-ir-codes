@@ -1,0 +1,42 @@
+## Remote: RM-ASU100
+## Source: [1]
+
+[D 17      F 021]	Power
+[D 17      F 022]	Open/Close
+[D 17      F 040]	Display
+[D 26-1-19 F 018]	CD
+[D 26-1-19 F 019]	USB
+[D 17      F 044]	Repeat
+[D 17      F 029]	Continue
+[D 17      F 053]	Shuffle
+[D 17      F 031]	Program
+[D 17      F 000]	1
+[D 17      F 001]	2
+[D 17      F 002]	3
+[D 17      F 003]	4
+[D 17      F 004]	5
+[D 17      F 005]	6
+[D 17      F 006]	7
+[D 17      F 007]	8
+[D 17      F 008]	9
+[D 17      F 009]	0
+[D 17      F 015]	Clear
+[D 17      F 013]	Check
+[D 26-1-19 F 076]	USB Menu
+[D 26-1-19 F 025]	Rec USB
+[D 17      F 011]	Enter
+[D 17      F 050]	Play
+[D 17      F 057]	Pause
+[D 17      F 056]	Stop
+[D 17      F 048]	Prev
+[D 17      F 049]	Next
+[D 17      F 051]	Rew
+[D 17      F 052]	FF
+[D 17      F 103]	Folder+
+[D 17      F 102]	Folder-
+[D 17      F 064]	Disc 1
+[D 17      F 065]	Disc 2
+[D 17      F 066]	Disc 3
+[D 17      F 067]	Disc 4
+[D 17      F 068]	Disc 5
+[D 17      F 062]	Disc Skip

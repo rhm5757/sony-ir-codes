@@ -1,0 +1,42 @@
+## Remote: RM-D105
+## Source: [1]
+
+[D 17      F 031]	Program
+[D 17      F 053]	Shuffle
+[D 17      F 029]	Continue
+[D 17      F 026]	Pgm Bank Select
+[D 17      F 025]	File
+[D 17      F 064]	Disc 1
+[D 17      F 065]	Disc 2
+[D 17      F 066]	Disc 3
+[D 17      F 067]	Disc 4
+[D 17      F 068]	Disc 5
+[D 17      F 069]	Disc 6
+[D 17      F 070]	Disc 7
+[D 17      F 071]	Disc 8
+[D 17      F 072]	Disc 9
+[D 17      F 073]	Disc 10
+[D 17      F 000]	Track 1
+[D 17      F 001]	Track 2
+[D 17      F 002]	Track 3
+[D 17      F 003]	Track 4
+[D 17      F 004]	Track 5
+[D 17      F 005]	Track 6
+[D 17      F 006]	Track 7
+[D 17      F 007]	Track 8
+[D 17      F 008]	Track 9
+[D 17      F 032]	Track 10
+[D 17      F 039]	Track +10
+[D 17      F 013]	Check
+[D 17      F 015]	Clear
+[D 17      F 050]	Play
+[D 17      F 057]	Pause
+[D 17      F 056]	Stop
+[D 17      F 018]	Line Out Vol+
+[D 17      F 019]	Line Out Vol-
+[D 17      F 040]	Time/Memo
+[D 17      F 044]	Repeat
+[D 17      F 048]	Prev
+[D 17      F 049]	Next
+[D 17      F 051]	Rew
+[D 17      F 052]	FF
