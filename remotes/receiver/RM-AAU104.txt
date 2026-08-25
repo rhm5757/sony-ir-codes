@@ -1,0 +1,57 @@
+## Remote: RM-AAU104
+## Source: [1]
+
+[D 16-1    F 021]	Power
+[D 04-0    F 055]	System Standby
+
+[D 16-0-05 F 022]	BD/DVD
+[D 16-1    F 124]	Game
+[D 16-5    F 003]	Sat/CATV
+[D 16-1    F 034]	Video
+[D 16-1    F 106]	TV
+[D 16-1    F 037]	SA-CD/CD
+[D 16-1    F 033]	Tuner
+[D 16-1    F 117]	Portable
+
+[D 16-1    F 096]	Sleep
+[D 16-0-05 F 098]	Auto Vol
+[D 16-5    F 032]	Night Mode
+[D 16-5    F 048]	Input Mode
+[D 16-1    F 077]	Dimmer
+[D 16-1    F 075]	Display
+[D 16-5    F 119]	Amp Menu
+
+[D 16-1    F 020]	Muting
+[D 16-1    F 018]	Vol+
+[D 16-1    F 019]	Vol-
+[D 16-5    F 110]	Sound Field+
+[D 16-5    F 111]	Sound Field-
+
+# Tuner
+
+[D 16-5    F 120]	Up
+[D 16-5    F 122]	Left
+[D 16-1    F 012]	OK/Select
+[D 16-5    F 123]	Right
+[D 16-5    F 121]	Down
+[D 16-0-01 F 125]	Return/Exit
+[D 16-0-01 F 115]	Tools/Options
+[D 16-5    F 046]	Menu/Home
+[D 16-5    F 044]	Tuning-
+[D 16-0-01 F 050]	Play
+[D 16-5    F 043]	Tuning+
+[D 16-1    F 017]	Preset-
+[D 16-0-01 F 057]	Pause
+[D 16-5    F 040]	D.Tuning
+[D 16-1    F 016]	Preset+
+[D 16-1    F 000]	1
+[D 16-1    F 001]	2
+[D 16-1    F 002]	3
+[D 16-1    F 003]	4
+[D 16-1    F 004]	5
+[D 16-1    F 005]	6
+[D 16-1    F 006]	7
+[D 16-1    F 007]	8
+[D 16-1    F 008]	9
+[D 16-1    F 009]	0/10
+[D 16-1    F 014]	Ent/Mem

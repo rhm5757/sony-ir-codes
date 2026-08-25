@@ -1,0 +1,54 @@
+## Remote: RM-PP505
+## Mode: AV2
+## Source: [1]
+
+[D 16-1    F 021]	Power
+[D 16-1    F 096]	Sleep
+
+[D 16-1    F 033]	Tuner
+[D 16-1    F 034]	Video 1
+[D 16-1    F 030]	Video 2
+[D 16-1    F 066]	Video 3
+[D 16-1    F 125]	DVD/LD
+[D 16-1    F 106]	TV/Sat
+[D 16-1    F 029]	Aux
+[D 16-1    F 105]	MD/Tape
+[D 16-1    F 037]	CD/SACD
+[D 16-1    F 032]	Phono
+
+[D 16-5    F 048]	Input Mode
+[D 16-5    F 100]	Audio Split
+[D 16-5    F 071]	A.F.D.
+[D 16-5    F 111]	Sound Field Mode -
+[D 16-5    F 110]	Sound Field Mode +
+[D 16-5    F 065]	2Ch
+[D 16-5    F 038]	Preset
+[D 16-5    F 074]	Test Tone
+[D 16-5    F 032]	Night Mode
+[D 16-5    F 076]	EQ/Tone
+[D 16-1    F 073]	Multi/2Ch
+[D 16-1    F 083]	On Screen
+[D 16-5    F 119]	Main Menu
+[D 16-1    F 020]	Muting
+[D 16-1    F 018]	Master Vol+
+[D 16-1    F 019]	Master Vol-
+[D 16-5    F 120]	Up
+[D 16-5    F 122]	Left
+[D 16-1    F 012]	Select
+[D 16-5    F 123]	Right
+[D 16-5    F 121]	Down
+
+[D 13-1    F 000]	1
+[D 13-1    F 001]	2
+[D 13-1    F 002]	3
+[D 13-1    F 003]	4
+[D 13-1    F 004]	5
+[D 13-1    F 005]	6
+[D 13-1    F 006]	7
+[D 13-1    F 007]	8
+[D 13-1    F 008]	9
+[D 13-1    F 009]	0
+[D 13-1    F 051]	Shift
+[D 13-1    F 083]	D.Tuning
+[D 13-1    F 016]	Preset +
+[D 13-1    F 017]	Preset -

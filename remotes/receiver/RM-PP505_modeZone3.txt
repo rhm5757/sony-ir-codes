@@ -1,0 +1,21 @@
+## Remote: RM-PP505
+## Mode: Zone 3 (3rd Room)
+## Source: [1]
+
+[D 25-3-01 F 021]	Power
+
+[D 25-3-01 F 033]	Tuner
+[D 25-3-01 F 034]	Video 1
+[D 25-3-01 F 030]	Video 2
+[D 25-3-01 F 066]	Video 3
+[D 25-3-01 F 125]	DVD/LD
+[D 25-3-01 F 106]	TV/Sat
+[D 25-3-01 F 029]	Aux
+[D 25-3-01 F 105]	MD/Tape
+[D 25-3-01 F 037]	CD/SACD
+[D 25-3-01 F 032]	Phono
+
+[D 25-3-01 F 123]	2nd Room (3rd Room)
+[D 25-3-01 F 020]	Muting
+[D 25-3-01 F 018]	Master Vol+
+[D 25-3-01 F 019]	Master Vol-
