@@ -1,0 +1,38 @@
+## Remote: RM-U222
+## Source: [1]
+
+[D 16      F 021]	Power
+[D 16      F 047]	System Off (1 of 6)
+
+[D 16      F 037]	CD
+[D 16      F 033]	Tuner
+[D 16      F 032]	Phono
+[D 16      F 035]	Tape
+[D 16      F 070]	DAT
+[D 16      F 034]	Video 1
+[D 16      F 030]	Video 2
+
+[D 12      F 063]	Surround On/Off
+[D 12      F 070]	Surround Mode
+[D 12      F 068]	Delay
+[D 12      F 066]	Rear Level +
+[D 12      F 067]	Rear Level -
+
+[D 12      F 049]	DBFB
+[D 16      F 018]	Master Vol +
+[D 16      F 019]	Master Vol -
+[D 16      F 020]	Muting
+
+[D 13      F 051]	Shift
+[D 13      F 000]	1
+[D 13      F 001]	2
+[D 13      F 002]	3
+[D 13      F 003]	4
+[D 13      F 004]	5
+[D 13      F 005]	6
+[D 13      F 006]	7
+[D 13      F 007]	8
+[D 13      F 008]	9
+[D 13      F 009]	0
+[D 13      F 016]	Preset +
+[D 13      F 017]	Preset -

@@ -1,0 +1,50 @@
+## Remote: RM-U241
+## Source: [1]
+
+[D 16      F 047]	System Off (1 of 6)
+[D 16      F 096]	Sleep
+
+[D 16      F 035]	Tape
+[D 16      F 070]	DAT/MD
+[D 16      F 037]	CD
+[D 16      F 033]	Tuner
+[D 16      F 032]	Phono
+[D 16      F 034]	Video 1
+[D 16      F 030]	Video 2
+[D 16      F 066]	Video 3
+[D 16      F 107]	LD
+[D 16      F 106]	TV
+
+[D 12      F 120]	Up
+[D 12      F 121]	Down
+[D 12      F 122]	Left
+[D 12      F 123]	Right
+[D 12      F 119]	DPC Mode
+[D 18      F 044]	EQ/Tone On/Off
+[D 18      F 074]	Test Tone
+[D 18      F 078]	Rear Level +
+[D 18      F 079]	Rear Level -
+[D 18      F 084]	Center Level +
+[D 18      F 085]	Center Level -
+[D 12      F 063]	Sound Field On/Off
+[D 18      F 054]	Sound Field Mode +
+[D 18      F 055]	Sound Field Mode -
+[D 12      F 049]	Low Boost
+[D 16      F 018]	Master Vol +
+[D 16      F 019]	Master Vol -
+[D 16      F 020]	Muting
+
+[D 13      F 000]	1
+[D 13      F 001]	2
+[D 13      F 002]	3
+[D 13      F 003]	4
+[D 13      F 004]	5
+[D 13      F 005]	6
+[D 13      F 006]	7
+[D 13      F 007]	8
+[D 13      F 008]	9
+[D 13      F 009]	0
+[D 13      F 051]	Shift
+[D 13      F 082]	Index
+[D 13      F 016]	Preset +
+[D 13      F 017]	Preset -
