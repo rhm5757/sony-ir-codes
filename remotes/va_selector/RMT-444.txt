@@ -1,0 +1,37 @@
+## Remote: RMT-444
+## Source: [1]
+
+[D 04-7    F 021]	Power
+
+[D 04-7    F 056]	Input Select 1
+[D 04-7    F 057]	Input Select 2
+[D 04-7    F 058]	Input Select 3
+[D 04-7    F 059]	Input Select 4
+[D 04-7    F 060]	Input Select 5
+[D 04-7    F 061]	Input Select 6
+
+[D 04-7    F 016]	Cancel
+[D 04-7    F 099]	Aux Audio Select
+[D 04-7    F 103]	Processor Select
+[D 04-7    F 107]	Output Select
+
+[D 04-7    F 000]	Select 1
+[D 04-7    F 001]	Select 2
+[D 04-7    F 002]	Select 3
+[D 04-7    F 003]	Select 4
+[D 04-7    F 004]	Select 5
+[D 04-7    F 005]	Select 6
+
+[D 04-7    F 064]	Monitor Select 1
+[D 04-7    F 065]	Monitor Select 2
+[D 04-7    F 066]	Monitor Select 3
+[D 04-7    F 067]	Monitor Select 4
+[D 04-7    F 068]	Monitor Select 5
+[D 04-7    F 069]	Monitor Select 6
+
+[D 04-7    F 022]	Muting Video
+[D 04-7    F 020]	Muting Audio
+[D 04-7    F 080]	Input/Output
+
+[D 04-7    F 019]	Monitor Audio Level -
+[D 04-7    F 018]	Monitor Audio Level +

@@ -1,0 +1,27 @@
+## Remote: RM-U141
+## Source: [1]
+
+[D 16      F 047]	System Off (1 of 6)
+
+[D 16      F 033]	Tuner
+[D 16      F 032]	Phono
+[D 16      F 106]	TV/LD
+[D 16      F 035]	Tape/MD
+[D 16      F 037]	CD
+
+[D 12      F 049]	Low Boost
+[D 16      F 018]	Vol +
+[D 16      F 019]	Vol -
+[D 16      F 020]	Muting
+
+[D 13      F 000]	1
+[D 13      F 001]	2
+[D 13      F 002]	3
+[D 13      F 003]	4
+[D 13      F 004]	5
+[D 13      F 005]	6
+[D 13      F 006]	7
+[D 13      F 007]	8
+[D 13      F 008]	9
+[D 13      F 009]	0
+[D 13      F 051]	Shift
