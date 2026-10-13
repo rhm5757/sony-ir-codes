@@ -1,0 +1,33 @@
+## Remote: RM-X231
+## Source: [1]
+
+[D 04-4    F 013]	Off
+[D 04-4-00 F 065]	Call
+[D 04-4    F 070]	Source
+[D 04-4    F 016]	Sound (—Menu)
+[D 04-4    F 071]	Mode
+[D 04-4    F 011]	Return
+[D 04-4    F 039]	Search
+[D 04-4    F 051]	Up (+)
+[D 04-4    F 053]	Left (Prev)
+[D 04-4    F 092]	Enter
+[D 04-4    F 052]	Right (Next)
+[D 04-4    F 050]	Down (-)
+[D 04-4    F 119]	PTY
+[D 04-4    F 040]	Display (—Scroll)
+[D 04-4    F 000]	1
+[D 04-4    F 001]	2
+[D 04-4    F 002]	3
+[D 04-4    F 003]	4
+[D 04-4    F 004]	5
+[D 04-4    F 005]	6 (Pause)
+[D 04-4    F 018]	Vol+
+[D 04-4    F 019]	Vol-
+	
+# Most keys transmit one of the following two codes, depending on how long they are held down.
+# F 069 is sent 3x when the key is released if the key has not been held down for 3 seconds.
+# F 068 replaces the specific key code after 3 seconds and is sent until the key is released.
+# These keys do not have this behavior: Call, Vol+, Vol-
+    
+[D 04-4    F 069]	(key up <3 sec)
+[D 04-4    F 068]	(>3 sec)
